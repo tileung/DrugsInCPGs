@@ -1,26 +1,57 @@
 <?php
+# 
+# get drug labels from mesh, nci-t, rxnorm, drugbank, ndf-rt, chebi
+#
+
 $fresh = false;
 if(array_search("fresh",$argv)) $fresh = true;
 
-/*
--> mesh
--> nci-t
--> rxnorm
--> drugbank
--> ndf-rt
--> chebi
--> atc
-*/
+$dbs = array(
+	"mesh" => "getMESHFromAberOWL",
+	"ncit" => "getNCITFromAberOWL",
+//	"rxnorm" => "getRXNORMFromAberOWL",
+	"drugbank" => "getDrugBankFromBio2RDF",
+	"ndfrt" => "getNDFRTFromSource",
+	"chebi" => "getCHEBIFromAberOWL"
+);
+// atc
 
+$found = array();
 $result_file = "labels.tab";
 $fp = fopen($result_file,"w");
-fwrite($fp, getCHEBIFromAberOWL());
-fwrite($fp, getDrugBankFromBio2RDF());
-fwrite($fp, getNDFRTFromSource());
-fwrite($fp, getRXNORMFromAberOWL());
-fwrite($fp, getNCITFromAberOWL());
-fwrite($fp, getMESHFromAberOWL());
+foreach($dbs AS $db) {
+	echo "processing $db ";
+	$labels = $db();
+	foreach( explode("\n",$labels) AS $r) {
+		$a = explode("\t",$r);
+		$id = $a[0];
+		$label = strtolower($a[1]);
+		$type = 'label';
+		if(isset($a[2])) $type = $a[2];
+		$l = filterLabel($label);
+		if($l) {
+			if(!isset($found[$l])) {
+				$found[$l] = '';
+				fwrite($fp, "$id\t$label\t$type\n");
+	}}}
+	echo "\n";
+}
 fclose($fp);
+
+
+
+function filterLabel($label)
+{
+	if(!isset($label) or strlen($label) < 3 or strlen($label) > 50) return '';
+	
+	$a = $label[0];
+	$b = $label[1];
+	$chars = array('(','[','{','-',"'",',');
+	foreach($chars AS $char) {
+		if($a == $char or $b==$char) return '';
+	}
+	return $label;
+}
 
 function getCHEBIFromAberOWL()
 {
@@ -75,18 +106,7 @@ SELECT distinct str(?id) str(?label) str(?p)
 		file_put_contents($file,str_replace('"','', substr($buf, strpos($buf,"\n")+1)));
 		echo "done.".PHP_EOL;
 	}
-	//$labels = file_get_contents($file);
-	$labels = '';
-	$fp = fopen($file,"r");
-	while($l = fgets($fp)) {
-		list($id,$label, $relation) = explode("\t",trim($l));
-		if(isset($label[1]) and (strlen($label) > 50 or $label[0] == '(' or $label[0] == '[' 
-			or $label[0] == '{' or $label[1] == '-' or $label[1] == '(' or $label[1] == "'" or $label[1]==',')) 
-			continue;
-		$labels .= "$id\t$label\t$relation\n";	
-	}
-	fclose($fp);
-
+	$labels = file_get_contents($file);
 	return $labels;
 }
 
@@ -131,6 +151,7 @@ function getRXNORMFromAberOWL()
 	}
 	$buf = file_get_contents($file);
 	$result = json_decode($buf, true);
+	print_r($result);exit;
 	$labels = getLabelsFromAberOWLResult($result, array("synonym"));
 	return $labels;
 }
@@ -216,7 +237,9 @@ function getLabelsFromAberOWLResult($result, $fields = null)
 			foreach($fields AS $field) {
 				if(isset($o[$field])) {
 					foreach($o[$field] AS $v) {
-						$buf .= "$id\t$v\t$field\n";
+						$f = filterLabel($v);
+						if($f) 
+							$buf .= "$id\t$v\t$field\n";
 					}
 				}
 			}
