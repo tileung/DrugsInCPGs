@@ -1,20 +1,20 @@
 <?php
 # 
-# get drug labels from mesh, nci-t, rxnorm, drugbank, ndf-rt, chebi
+# get drug labels from atc, mesh, nci-t, rxnorm, drugbank, ndf-rt, chebi
 #
-
 $fresh = false;
 if(array_search("fresh",$argv)) $fresh = true;
 
 $dbs = array(
-	"mesh" => "getMESHFromAberOWL",
-	"ncit" => "getNCITFromAberOWL",
+//    "atc" => "getATCFromBioPortal"
+	"mesh" => "getMESHFromAberOWL"
+//	"ncit" => "getNCITFromAberOWL",
 //	"rxnorm" => "getRXNORMFromAberOWL",
-	"drugbank" => "getDrugBankFromBio2RDF",
-	"ndfrt" => "getNDFRTFromSource",
-	"chebi" => "getCHEBIFromAberOWL"
+//	"drugbank" => "getDrugBankFromBio2RDF"
+//	"ndfrt" => "getNDFRTFromSource",
+//	"chebi" => "getCHEBIFromAberOWL"
 );
-// atc
+
 
 $found = array();
 $result_file = "labels.tab";
@@ -24,6 +24,7 @@ foreach($dbs AS $db) {
 	$labels = $db();
 	foreach( explode("\n",$labels) AS $r) {
 		$a = explode("\t",$r);
+		if(count($a) != 3) continue;
 		$id = $a[0];
 		$label = strtolower($a[1]);
 		$type = 'label';
@@ -79,6 +80,30 @@ function getCHEBIFromAberOWL()
 	return $labels;
 }
 
+function getATCFromBioPortal()
+{
+	global $fresh;
+	$file = "drug.labels.atc.tab";
+	if(!file_exists($file) or $fresh) {
+		echo "Getting ATC from BioPortal ..";
+		$sparql = "PREFIX owl: <http://www.w3.org/2002/07/owl#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#> 
+SELECT ?atc ?label ?label_type
+FROM <atc>
+{
+  ?atc a owl:Class;
+     skos:prefLabel ?label .
+  FILTER regex(str(?atc),\"ATC\")
+  bind(\"prefLabel\" AS ?label_type)
+} ";
+		$url = "http://localhost:8890/sparql?query=".urlencode($sparql)."&format=text/tab-separated-values";
+		$buf = file_get_contents($url);
+		file_put_contents($file,str_replace('"','', substr($buf, strpos($buf,"\n")+1)));
+		echo "done.".PHP_EOL;
+	}
+	$labels = file_get_contents($file);
+	return $labels;
+}
 
 function getDrugBankFromBio2RDF()
 {
@@ -101,7 +126,7 @@ SELECT distinct str(?id) str(?label) str(?p)
     ?drug ?p ?b . ?b dct:title ?label . FILTER(?p = dv:brand)
   }
 } ";
-		$url = "http://dumontierlab-dev1.stanford.edu:13053/sparql?query=".urlencode($sparql)."&format=text/tab-separated-values";
+		$url = "http://sparql-virtuoso.openlifedata.org/?query=".urlencode($sparql)."&format=text/tab-separated-values";
 		$buf = file_get_contents($url);
 		file_put_contents($file,str_replace('"','', substr($buf, strpos($buf,"\n")+1)));
 		echo "done.".PHP_EOL;
@@ -176,20 +201,25 @@ function getNCITFromAberOWL()
 
 function getMESHFromAberOWL()
 {
-	$categories = array('chemical actions and uses','pharmaceutical preparations','organic chemicals','polycyclic compounds');
+	$categories = array( // '<http://phenomebrowser.net/ontologies/mesh/mesh.owl#D26>'); 
+	"'organic chemicals'","'chemical actions and uses'","'pharmaceutical preparations'","'polycyclic compounds'"
+	);
 	global $fresh;
 	$results['result'] = array();
-	
+	$ctx = stream_context_create(array( 'http' => array('timeout' => 250))); 
+
 	$file = "drug.labels.mesh.json";
 	if(!file_exists($file) or $fresh) {
 		echo "downloading MESH from AberOWL ... ";
 		$buf ='';
 		foreach($categories AS $cat) {
-			echo $cat." ";
-			$url = "http://aber-owl.net/service/api/runQuery.groovy?type=subeq&query='".urlencode($cat)."'&ontology=RH-MESH&labels=true";
-			$buf = file_get_contents($url);
+			echo $cat.", ";
+			$url = "http://aber-owl.net/service/api/runQuery.groovy?type=subeq&query=".urlencode($cat)."&ontology=RH-MESH&labels=true";
+			$buf = file_get_contents($url,0,$ctx);
 			$result = json_decode($buf, true);
-			$results['result'] = array_merge($results['result'], $result['result']);
+			if(isset($result) and $result !== FALSE) {
+				$results['result'] = array_merge($results['result'], $result['result']);
+			}
 		}
 		file_put_contents($file,json_encode($results));
 		echo " done.".PHP_EOL;
