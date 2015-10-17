@@ -6,13 +6,13 @@ $fresh = false;
 if(array_search("fresh",$argv)) $fresh = true;
 
 $dbs = array(
-//    "atc" => "getATCFromBioPortal"
-	"mesh" => "getMESHFromAberOWL"
-//	"ncit" => "getNCITFromAberOWL",
+    "atc" => "getATCFromBioPortal",
+	"mesh" => "getMESHFromAberOWL",
+	"ncit" => "getNCITFromAberOWL",
 //	"rxnorm" => "getRXNORMFromAberOWL",
-//	"drugbank" => "getDrugBankFromBio2RDF"
-//	"ndfrt" => "getNDFRTFromSource",
-//	"chebi" => "getCHEBIFromAberOWL"
+	"drugbank" => "getDrugBankFromBio2RDF",
+	"ndfrt" => "getNDFRTFromSource",
+	"chebi" => "getCHEBIFromAberOWL",
 );
 
 
@@ -146,6 +146,8 @@ function getNDFRTFromSource()
 		file_put_contents($file,$buf);
 		echo "done.".PHP_EOL;
 	}
+	$allowed = array( "","[Chemical/Ingredient]", "[EPC]", "[VA Product]", "[MoA]", "[TC]");
+	// excludes classes: PE, PK, Dose form, Disease/Finding 
 	$labels = '';
 	$fp = fopen($file,"r");
 	while($l = fgets($fp)) {
@@ -155,7 +157,13 @@ function getNDFRTFromSource()
 		if($label[0] == '[') {
 			$label = substr($label, strpos($label,"]")+2);
 		}
-		$labels .= "$id\t$label\tlabel\n";
+		if(isset($a[2])) {
+			$label_type = trim($a[2]);
+			if(!array_search( $label_type, $allowed)) continue;
+			$label_type = substr($a[2],1,-2);
+		} else $label_type = "label";
+		
+		$labels .= "$id\t$label\t$label_type\n";
 	}
 	fclose($fp);
 	return $labels;
