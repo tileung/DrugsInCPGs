@@ -24,11 +24,10 @@ import time
 start = time.time()
 
 ## Set path
-path = "C:\\Users\\tileung\\Dropbox\\"
+path = ""
 
 ## Initiate file to save results
-## fName = path + "Py Stuffs - Drugs in CPGs\\drugsInGuidelines.txt"  ## 12/17/14 for exclusions
-fName = "C:\\Users\\tileung\\Documents\\drugsInGuidelines_1018-rxnorm-2.txt"
+fName = "drugsInGuidelines_1018.txt"
 try:
     os.remove(fName)
     print("old file removed")
@@ -48,15 +47,14 @@ def getCount(strList, strRecom):
     strRecomLower.replace(labelLower,"")
     return kTotal
 
-## Obtain Drug Bank list of drugs
-## drugbankList = path + 'Py Stuffs - Drugs in CPGs\\SeptCode\\labels_byLen1018.txt'
-drugbankList = path + 'Py Stuffs - Drugs in CPGs\\SeptCode\\labels-rxnormByLen.txt'
+## Obtain drug labels
+labelList = path + '../labels/labels_byLen1018.txt'
     ## tab file contains labels newly obtained 10/17/15. Sorted by longest to shortest. Includes: CHEBI, DrugBank, MESH, ATC, NDF-RT, NCBI (no RxNorm)
     ## all obtained from AberOWL and Bioportal
 
 ## Get all guidelines
-ngc_zip = "c:/Users/tileung/Documents/NGC-xml-2015_1003.zip"
-ngc_list_file = "C:\\Users\\tileung\\Documents\\IncludedGLs_byCUI_byPop-rxnorm-2.txt"
+ngc_zip = "../ngc/NGC-xml-2015_1003.zip"
+ngc_list_file = "../ngc/IncludedCPGs_popExclusions1018.txt"
 
 ngc_list = {}
 f = open(ngc_list_file, 'r')
@@ -99,7 +97,7 @@ for f in z.namelist():
         text2 = str.lower(str(fv.item(0).toxml('utf-8')))
 
         ## Iterate through labels from drug list and find in Recommendations text
-        f = open(drugbankList,"r")
+        f = open(labelList,"r")
         reader = csv.reader(f, dialect = csv.excel_tab)
         next(reader)
         for row in reader:
@@ -119,7 +117,7 @@ for f in z.namelist():
                 
                 with open(fName, "a") as myfile:
                     myfile.write(res)
-
+	
 myfile.close()
 end = time.time()
 
