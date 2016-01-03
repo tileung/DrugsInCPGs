@@ -1,0 +1,563 @@
+362.11	C0152132	Hypertension	Hypertensive retinopathy
+401	C0085580	Hypertension	Malignant essential hypertension
+401	C0024588	Hypertension	Malignant essential hypertension
+401.1	C0155583	Hypertension	Benign essential hypertension
+401.9	C0085580	Hypertension	Unspecified essential hypertension
+402	C0155584	Hypertension	Malignant hypertensive heart disease without heart failure
+402	C0152105	Hypertension	Malignant hypertensive heart disease without heart failure
+402	C1135328	Hypertension	Malignant hypertensive heart disease without heart failure
+402.01	C1135329	Hypertension	Malignant hypertensive heart disease with heart failure
+402.1	C0155587	Hypertension	Benign hypertensive heart disease without heart failure
+402.1	C1135330	Hypertension	Benign hypertensive heart disease without heart failure
+402.11	C1135331	Hypertension	Benign hypertensive heart disease with heart failure
+402.9	C1135332	Hypertension	Unspecified hypertensive heart disease without heart failure
+402.9	C0152105	Hypertension	Unspecified hypertensive heart disease without heart failure
+402.91	C1135333	Hypertension	Unspecified hypertensive heart disease with heart failure
+403	C1719462	Hypertension	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified
+403	C1719463	Hypertension	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified
+403	C1719460	Hypertension	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified
+403.01	C1719461	Hypertension	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease
+403.1	C0155596	Hypertension	Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified
+403.1	C0155596	Hypertension	Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified
+403.11	C0155598	Hypertension	Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease
+403.9	C0494574	Hypertension	Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified
+403.9	C0848548	Hypertension	Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified
+403.91	C0348860	Hypertension	Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease
+404	C1719469	Hypertension	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404	C1719468	Hypertension	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404	C1719464	Hypertension	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.01	C1719465	Hypertension	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.02	C1719466	Hypertension	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease
+404.03	C1719467	Hypertension	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease
+404.1	C0155607	Hypertension	Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.1	C0155608	Hypertension	Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.11	C0155609	Hypertension	Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.12	C0155610	Hypertension	Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease
+404.13	C0155611	Hypertension	Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease
+404.9	C0155601	Hypertension	Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.9	C0155612	Hypertension	Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.91	C0494575	Hypertension	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.92	C0348879	Hypertension	Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease
+404.93	C0494576	Hypertension	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease
+405.01	C0264643	Hypertension	Malignant renovascular hypertension
+405.09	C0155619	Hypertension	Other malignant secondary hypertension
+405.11	C0155621	Hypertension	Benign renovascular hypertension
+405.19	C0155622	Hypertension	Other benign secondary hypertension
+405.91	C0155624	Hypertension	Unspecified renovascular hypertension
+405.99	C0348586	Hypertension	Other unspecified secondary hypertension
+437.2	C0151620	Hypertension	Hypertensive encephalopathy
+249	C2349361	Diabetes_mellitus	Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified
+249	C0271640	Diabetes_mellitus	Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified
+249	C2349363	Diabetes_mellitus	Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified
+249.01	C2349362	Diabetes_mellitus	Secondary diabetes mellitus without mention of complication, uncontrolled
+249.1	C2349367	Diabetes_mellitus	Secondary diabetes mellitus with ketoacidosis, not stated as uncontrolled, or unspecified
+249.1	C2349365	Diabetes_mellitus	Secondary diabetes mellitus with ketoacidosis, not stated as uncontrolled, or unspecified
+249.11	C2349366	Diabetes_mellitus	Secondary diabetes mellitus with ketoacidosis, uncontrolled
+249.2	C2349370	Diabetes_mellitus	Secondary diabetes mellitus with hyperosmolarity, not stated as uncontrolled, or unspecified
+249.2	C2349372	Diabetes_mellitus	Secondary diabetes mellitus with hyperosmolarity, not stated as uncontrolled, or unspecified
+249.21	C2349371	Diabetes_mellitus	Secondary diabetes mellitus with hyperosmolarity, uncontrolled
+249.3	C2349374	Diabetes_mellitus	Secondary diabetes mellitus with other coma, not stated as uncontrolled, or unspecified
+249.3	C2349376	Diabetes_mellitus	Secondary diabetes mellitus with other coma, not stated as uncontrolled, or unspecified
+249.31	C2349375	Diabetes_mellitus	Secondary diabetes mellitus with other coma, uncontrolled
+249.4	C2349382	Diabetes_mellitus	Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified
+249.4	C2349380	Diabetes_mellitus	Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified
+249.41	C2349381	Diabetes_mellitus	Secondary diabetes mellitus with renal manifestations, uncontrolled
+249.5	C2349383	Diabetes_mellitus	Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified
+249.5	C2349385	Diabetes_mellitus	Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified
+249.51	C2349384	Diabetes_mellitus	Secondary diabetes mellitus with ophthalmic manifestations, uncontrolled
+249.6	C2349388	Diabetes_mellitus	Secondary diabetes mellitus with neurological manifestations, not stated as uncontrolled, or unspecified
+249.6	C2349386	Diabetes_mellitus	Secondary diabetes mellitus with neurological manifestations, not stated as uncontrolled, or unspecified
+249.61	C2349387	Diabetes_mellitus	Secondary diabetes mellitus with neurological manifestations, uncontrolled
+249.7	C2349391	Diabetes_mellitus	Secondary diabetes mellitus with peripheral circulatory disorders, not stated as uncontrolled, or unspecified
+249.7	C2349389	Diabetes_mellitus	Secondary diabetes mellitus with peripheral circulatory disorders, not stated as uncontrolled, or unspecified
+249.71	C2349390	Diabetes_mellitus	Secondary diabetes mellitus with peripheral circulatory disorders, uncontrolled
+249.8	C2349392	Diabetes_mellitus	Secondary diabetes mellitus with other specified manifestations, not stated as uncontrolled, or unspecified
+249.8	C2349394	Diabetes_mellitus	Secondary diabetes mellitus with other specified manifestations, not stated as uncontrolled, or unspecified
+249.81	C2349393	Diabetes_mellitus	Secondary diabetes mellitus with other specified manifestations, uncontrolled
+249.9	C2349399	Diabetes_mellitus	Secondary diabetes mellitus with unspecified complication, not stated as uncontrolled, or unspecified
+249.9	C2349397	Diabetes_mellitus	Secondary diabetes mellitus with unspecified complication, not stated as uncontrolled, or unspecified
+249.91	C2349398	Diabetes_mellitus	Secondary diabetes mellitus with unspecified complication, uncontrolled
+250	C0011849	Diabetes_mellitus	Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled
+250	C0375113	Diabetes_mellitus	Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled
+250	C0271635	Diabetes_mellitus	Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled
+250.01	C0375114	Diabetes_mellitus	Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled
+250.02	C0375115	Diabetes_mellitus	Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled
+250.03	C0375116	Diabetes_mellitus	Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled
+250.1	C0011880	Diabetes_mellitus	Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled
+250.1	C0375117	Diabetes_mellitus	Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled
+250.11	C0375118	Diabetes_mellitus	Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled
+250.12	C0375119	Diabetes_mellitus	Diabetes with ketoacidosis, type II or unspecified type, uncontrolled
+250.13	C0375120	Diabetes_mellitus	Diabetes with ketoacidosis, type I [juvenile type], uncontrolled
+250.2	C0375121	Diabetes_mellitus	Diabetes with hyperosmolarity, type II or unspecified type, not stated as uncontrolled
+250.2	C0375122	Diabetes_mellitus	Diabetes with hyperosmolarity, type II or unspecified type, not stated as uncontrolled
+250.21	C0375123	Diabetes_mellitus	Diabetes with hyperosmolarity, type I [juvenile type], not stated as uncontrolled
+250.22	C0375124	Diabetes_mellitus	Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled
+250.23	C0375125	Diabetes_mellitus	Diabetes with hyperosmolarity, type I [juvenile type], uncontrolled
+250.3	C0011870	Diabetes_mellitus	Diabetes with other coma, type II or unspecified type, not stated as uncontrolled
+250.3	C0375126	Diabetes_mellitus	Diabetes with other coma, type II or unspecified type, not stated as uncontrolled
+250.31	C0375127	Diabetes_mellitus	Diabetes with other coma, type I [juvenile type], not stated as uncontrolled
+250.32	C0375128	Diabetes_mellitus	Diabetes with other coma, type II or unspecified type, uncontrolled
+250.33	C0375129	Diabetes_mellitus	Diabetes with other coma, type I [juvenile type], uncontrolled
+250.4	C0011881	Diabetes_mellitus	Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled
+250.4	C0375130	Diabetes_mellitus	Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled
+250.41	C0375131	Diabetes_mellitus	Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled
+250.42	C0375132	Diabetes_mellitus	Diabetes with renal manifestations, type II or unspecified type, uncontrolled
+250.43	C0375133	Diabetes_mellitus	Diabetes with renal manifestations, type I [juvenile type], uncontrolled
+250.5	C0375134	Diabetes_mellitus	Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled
+250.5	C0342245	Diabetes_mellitus	Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled
+250.51	C0375135	Diabetes_mellitus	Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled
+250.52	C0376128	Diabetes_mellitus	Diabetes with ophthalmic manifestations, type II or unspecified type, uncontrolled
+250.53	C0375136	Diabetes_mellitus	Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled
+250.6	C0375137	Diabetes_mellitus	Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled
+250.6	C0011882	Diabetes_mellitus	Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled
+250.61	C0375138	Diabetes_mellitus	Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled
+250.62	C0375139	Diabetes_mellitus	Diabetes with neurological manifestations, type II or unspecified type, uncontrolled
+250.63	C0375140	Diabetes_mellitus	Diabetes with neurological manifestations, type I [juvenile type], uncontrolled
+250.7	C0011871	Diabetes_mellitus	Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled
+250.7	C0375141	Diabetes_mellitus	Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled
+250.71	C0375142	Diabetes_mellitus	Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled
+250.72	C0375143	Diabetes_mellitus	Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled
+250.73	C0375144	Diabetes_mellitus	Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled
+250.8	C0375145	Diabetes_mellitus	Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled
+250.8	C0154183	Diabetes_mellitus	Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled
+250.81	C0375146	Diabetes_mellitus	Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled
+250.82	C0375147	Diabetes_mellitus	Diabetes with other specified manifestations, type II or unspecified type, uncontrolled
+250.83	C0375148	Diabetes_mellitus	Diabetes with other specified manifestations, type I [juvenile type], uncontrolled
+250.9	C0375149	Diabetes_mellitus	Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled
+250.9	C0342257	Diabetes_mellitus	Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled
+250.91	C0375150	Diabetes_mellitus	Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled
+250.92	C0375151	Diabetes_mellitus	Diabetes with unspecified complication, type II or unspecified type, uncontrolled
+250.93	C0375152	Diabetes_mellitus	Diabetes with unspecified complication, type I [juvenile type], uncontrolled
+357.2	C0271680	Diabetes_mellitus	Polyneuropathy in diabetes
+362.01	C0004606	Diabetes_mellitus	Background diabetic retinopathy
+362.02	C0154830	Diabetes_mellitus	Proliferative diabetic retinopathy
+362.03	C0004606	Diabetes_mellitus	Nonproliferative diabetic retinopathy NOS
+362.04	C1561894	Diabetes_mellitus	Mild nonproliferative diabetic retinopathy
+362.05	C0730277	Diabetes_mellitus	Moderate nonproliferative diabetic retinopathy
+362.06	C0730278	Diabetes_mellitus	Severe nonproliferative diabetic retinopathy
+366.41	C0011876	Diabetes_mellitus	Diabetic cataract
+272	C0154251	Hyperlipidemia	Pure hypercholesterolemia
+272	C0678189	Hyperlipidemia	Pure hypercholesterolemia
+272.1	C0020480	Hyperlipidemia	Pure hyperglyceridemia
+272.2	C0020474	Hyperlipidemia	Mixed hyperlipidemia
+272.3	C0023817	Hyperlipidemia	Hyperchylomicronemia
+272.4	C0348494	Hyperlipidemia	Other and unspecified hyperlipidemia
+278	C0028754	Obesity	Obesity, unspecified
+278	C1561827	Obesity	Obesity, unspecified
+278	C1561826	Obesity	Obesity, unspecified
+278.01	C0028756	Obesity	Morbid obesity
+278.02	C0497406	Obesity	Overweight
+430	C0038525	Stroke_or_TIA	Subarachnoid hemorrhage
+431	C2937358	Stroke_or_TIA	Intracerebral hemorrhage
+433.01	C0375274	Stroke_or_TIA	Occlusion and stenosis of basilar artery with cerebral infarction
+433.11	C0375276	Stroke_or_TIA	Occlusion and stenosis of carotid artery with cerebral infarction
+433.21	C0375278	Stroke_or_TIA	Occlusion and stenosis of vertebral artery with cerebral infarction
+433.31	C0375280	Stroke_or_TIA	Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+433.81	C0375282	Stroke_or_TIA	Occlusion and stenosis of other specified precerebral artery with cerebral infarction
+433.91	C0375284	Stroke_or_TIA	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction
+434	C0028790	Stroke_or_TIA	Cerebral thrombosis without mention of cerebral infarction
+434	C0079102	Stroke_or_TIA	Cerebral thrombosis without mention of cerebral infarction
+434	C0375285	Stroke_or_TIA	Cerebral thrombosis without mention of cerebral infarction
+434.01	C0375286	Stroke_or_TIA	Cerebral thrombosis with cerebral infarction
+434.1	C0007780	Stroke_or_TIA	Cerebral embolism without mention of cerebral infarction
+434.1	C0375287	Stroke_or_TIA	Cerebral embolism without mention of cerebral infarction
+434.11	C0375288	Stroke_or_TIA	Cerebral embolism with cerebral infarction
+434.9	C0028790	Stroke_or_TIA	Cerebral artery occlusion, unspecified without mention of cerebral infarction
+434.9	C0375290	Stroke_or_TIA	Cerebral artery occlusion, unspecified without mention of cerebral infarction
+434.91	C0375291	Stroke_or_TIA	Cerebral artery occlusion, unspecified with cerebral infarction
+435	C0004812	Stroke_or_TIA	Basilar artery syndrome
+435	C0917805	Stroke_or_TIA	Basilar artery syndrome
+435.1	C2931914	Stroke_or_TIA	Vertebral artery syndrome
+435.3	C0042568	Stroke_or_TIA	Vertebrobasilar artery syndrome
+435.8	C0155728	Stroke_or_TIA	Other specified transient cerebral ischemias
+435.9	C0917805	Stroke_or_TIA	Unspecified transient cerebral ischemia
+436	C0001365	Stroke_or_TIA	Acute, but ill-defined, cerebrovascular disease
+997.02	C0375722	Stroke_or_TIA	Iatrogenic cerebrovascular infarction or hemorrhage
+493	C0004096	Asthma	Extrinsic asthma, unspecified
+493	C0155877	Asthma	Extrinsic asthma, unspecified
+493	C0155878	Asthma	Extrinsic asthma, unspecified
+493.01	C0155879	Asthma	Extrinsic asthma with status asthmaticus
+493.02	C1176339	Asthma	Extrinsic asthma with (acute) exacerbation
+493.1	C0155880	Asthma	Intrinsic asthma, unspecified
+493.1	C0155881	Asthma	Intrinsic asthma, unspecified
+493.11	C0155882	Asthma	Intrinsic asthma with status asthmaticus
+493.12	C1176340	Asthma	Intrinsic asthma with (acute) exacerbation
+493.2	C0375333	Asthma	Chronic obstructive asthma, unspecified
+493.2	C0155883	Asthma	Chronic obstructive asthma, unspecified
+493.21	C0375334	Asthma	Chronic obstructive asthma with status asthmaticus
+493.22	C1176341	Asthma	Chronic obstructive asthma with (acute) exacerbation
+493.81	C0015263	Asthma	Exercise induced bronchospasm
+493.82	C0694548	Asthma	Cough variant asthma
+493.9	C0004096	Asthma	Asthma, unspecified type, unspecified
+493.9	C0155886	Asthma	Asthma, unspecified type, unspecified
+493.91	C0038218	Asthma	Asthma, unspecified type, with status asthmaticus
+493.92	C1176342	Asthma	Asthma, unspecified type, with (acute) exacerbation
+733	C0029456	Osteoporosis	Osteoporosis, unspecified
+733	C0029586	Osteoporosis	Osteoporosis, unspecified
+733	C0029456	Osteoporosis	Osteoporosis, unspecified
+733.01	C0029459	Osteoporosis	Senile osteoporosis
+733.02	C0158447	Osteoporosis	Idiopathic osteoporosis
+733.03	C0152256	Osteoporosis	Disuse osteoporosis
+733.09	C0029694	Osteoporosis	Other osteoporosis
+427.31	C0004238	Atrial fibrillation	Atrial fibrillation
+331	C0002395	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Alzheimer's disease
+331	C0154668	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Alzheimer's disease
+331.11	C0236642	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Pick's disease
+331.19	C1260406	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Other frontotemporal dementia
+331.2	C0154669	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile degeneration of brain
+331.7	C0393647	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Cerebral degeneration in diseases classified elsewhere
+290	C0011268	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile dementia, uncomplicated
+290	C0497327	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile dementia, uncomplicated
+290.1	C0677545	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Presenile dementia, uncomplicated
+290.1	C0011265	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Presenile dementia, uncomplicated
+290.11	C0154309	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Presenile dementia with delirium
+290.12	C0154310	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Presenile dementia with delusional features
+290.13	C0338629	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Presenile dementia with depressive features
+290.2	C0859643	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile dementia with delusional features
+290.2	C1269750	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile dementia with delusional features
+290.21	C0338631	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile dementia with depressive features
+290.3	C0154315	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senile dementia with delirium
+290.4	C0011269	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Vascular dementia, uncomplicated
+290.4	C0236650	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Vascular dementia, uncomplicated
+290.41	C0236651	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Vascular dementia, with delirium
+290.42	C0236652	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Vascular dementia, with delusions
+290.43	C0236653	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Vascular dementia, with depressed mood
+294	C0002625	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Amnestic disorder in conditions classified elsewhere
+294	C0154336	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Amnestic disorder in conditions classified elsewhere
+294.1	C0878691	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Dementia in conditions classified elsewhere without behavioral disturbance
+294.1	C0338632	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Dementia in conditions classified elsewhere without behavioral disturbance
+294.11	C0878692	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Dementia in conditions classified elsewhere with behavioral disturbance
+294.2	C0497327	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Dementia, unspecified, without behavioral disturbance
+294.2	C3161078	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Dementia, unspecified, without behavioral disturbance
+294.21	C3161079	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Dementia, unspecified, with behavioral disturbance
+294.8	C0154338	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Other persistent mental disorders due to conditions classified elsewhere
+797	C0036654	Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	Senility without mention of psychosis
+490	C0006277	COPD_and_Bronchiectasis	Bronchitis, not specified as acute or chronic
+491	C0008677	COPD_and_Bronchiectasis	Simple chronic bronchitis
+491	C0155872	COPD_and_Bronchiectasis	Simple chronic bronchitis
+491.1	C0155873	COPD_and_Bronchiectasis	Mucopurulent chronic bronchitis
+491.8	C0029544	COPD_and_Bronchiectasis	Other chronic bronchitis
+491.9	C0008677	COPD_and_Bronchiectasis	Unspecified chronic bronchitis
+492	C0034067	COPD_and_Bronchiectasis	Emphysematous bleb
+492	C0152242	COPD_and_Bronchiectasis	Emphysematous bleb
+492.8	C0029607	COPD_and_Bronchiectasis	Other emphysema
+491.2	C0155874	COPD_and_Bronchiectasis	Obstructive chronic bronchitis without exacerbation
+491.2	C0155875	COPD_and_Bronchiectasis	Obstructive chronic bronchitis without exacerbation
+491.21	C0155876	COPD_and_Bronchiectasis	Obstructive chronic bronchitis with (acute) exacerbation
+491.22	C1456131	COPD_and_Bronchiectasis	Obstructive chronic bronchitis with acute bronchitis
+494	C0006267	COPD_and_Bronchiectasis	Bronchiectasis without acute exacerbation
+494	C0878695	COPD_and_Bronchiectasis	Bronchiectasis without acute exacerbation
+494.1	C0878696	COPD_and_Bronchiectasis	Bronchiectasis with acute exacerbation
+496	C0302378	COPD_and_Bronchiectasis	Chronic airway obstruction, not elsewhere classified
+296.2	C0024517	Depression	Major depressive affective disorder, single episode, unspecified
+296.2	C0024517	Depression	Major depressive affective disorder, single episode, unspecified
+296.21	C0154403	Depression	Major depressive affective disorder, single episode, mild
+296.22	C0154404	Depression	Major depressive affective disorder, single episode, moderate
+296.23	C0154405	Depression	Major depressive affective disorder, single episode, severe, without mention of psychotic behavior
+296.24	C0154406	Depression	Major depressive affective disorder, single episode, severe, specified as with psychotic behavior
+296.25	C0338886	Depression	Major depressive affective disorder, single episode, in partial or unspecified remission
+296.26	C0154408	Depression	Major depressive affective disorder, single episode, in full remission
+296.3	C0154409	Depression	Major depressive affective disorder, recurrent episode, unspecified
+296.3	C0154409	Depression	Major depressive affective disorder, recurrent episode, unspecified
+296.31	C0154410	Depression	Major depressive affective disorder, recurrent episode, mild
+296.32	C0154411	Depression	Major depressive affective disorder, recurrent episode, moderate
+296.33	C0154412	Depression	Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior
+296.34	C0154413	Depression	Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior
+296.35	C0338893	Depression	Major depressive affective disorder, recurrent episode, in partial or unspecified remission
+296.36	C0154415	Depression	Major depressive affective disorder, recurrent episode, in full remission
+296.51	C0154424	Depression	Bipolar I disorder, most recent episode (or current) depressed, mild
+296.52	C0154425	Depression	Bipolar I disorder, most recent episode (or current) depressed, moderate
+296.53	C0154426	Depression	Bipolar I disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior
+296.54	C0154427	Depression	Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior
+296.55	C0154428	Depression	Bipolar I disorder, most recent episode (or current) depressed, in partial or unspecified remission
+296.56	C0154429	Depression	Bipolar I disorder, most recent episode (or current) depressed, in full remission
+296.6	C1456306	Depression	Bipolar I disorder, most recent episode (or current) mixed, unspecified
+296.6	C0236780	Depression	Bipolar I disorder, most recent episode (or current) mixed, unspecified
+296.61	C2874891	Depression	Bipolar I disorder, most recent episode (or current) mixed, mild
+296.62	C2874892	Depression	Bipolar I disorder, most recent episode (or current) mixed, moderate
+296.63	C0154432	Depression	Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior
+296.64	C0154433	Depression	Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior
+296.65	C0154434	Depression	Bipolar I disorder, most recent episode (or current) mixed, in partial or unspecified remission
+296.66	C0270434	Depression	Bipolar I disorder, most recent episode (or current) mixed, in full remission
+296.89	C1456308	Depression	Other bipolar disorders
+298	C0270458	Depression	Depressive type psychosis
+298	C0154442	Depression	Depressive type psychosis
+300.4	C0013415	Depression	Dysthymic disorder
+309.1	C0154583	Depression	Prolonged depressive reaction
+311	C0868892	Depression	Depressive disorder, not elsewhere classified
+16	C0041328	Chronic_Kidney_Disease	Tuberculosis of kidney, unspecified
+16	C0041333	Chronic_Kidney_Disease	Tuberculosis of kidney, unspecified
+16	C0152462	Chronic_Kidney_Disease	Tuberculosis of kidney, unspecified
+16	C0041328	Chronic_Kidney_Disease	Tuberculosis of kidney, unspecified
+16	C0196947	Chronic_Kidney_Disease	Tuberculosis of kidney, unspecified
+16.01	C0152787	Chronic_Kidney_Disease	Tuberculosis of kidney, bacteriological or histological examination not done
+16.01	C0196955	Chronic_Kidney_Disease	Tuberculosis of kidney, bacteriological or histological examination not done
+16.02	C0152788	Chronic_Kidney_Disease	Tuberculosis of kidney, bacteriological or histological examination unknown (at present)
+16.02	C0176290	Chronic_Kidney_Disease	Tuberculosis of kidney, bacteriological or histological examination unknown (at present)
+16.03	C0152789	Chronic_Kidney_Disease	Tuberculosis of kidney, tubercle bacilli found (in sputum) by microscopy
+16.04	C0152790	Chronic_Kidney_Disease	Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+16.05	C0152791	Chronic_Kidney_Disease	Tuberculosis of kidney, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+16.06	C0152792	Chronic_Kidney_Disease	Tuberculosis of kidney, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+95.4	C0153180	Chronic_Kidney_Disease	Syphilis of kidney
+95.4	C0178089	Chronic_Kidney_Disease	Syphilis of kidney
+189	C0494158	Chronic_Kidney_Disease	Malignant neoplasm of kidney, except pelvis
+189	C0153617	Chronic_Kidney_Disease	Malignant neoplasm of kidney, except pelvis
+189.9	C0348371	Chronic_Kidney_Disease	Malignant neoplasm of urinary organ, site unspecified
+223	C0154013	Chronic_Kidney_Disease	Benign neoplasm of kidney, except pelvis
+223	C0154014	Chronic_Kidney_Disease	Benign neoplasm of kidney, except pelvis
+236.91	C0154115	Chronic_Kidney_Disease	Neoplasm of uncertain behavior of kidney and ureter
+249.4	C2349382	Chronic_Kidney_Disease	Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified
+249.4	C2349380	Chronic_Kidney_Disease	Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified
+249.41	C2349381	Chronic_Kidney_Disease	Secondary diabetes mellitus with renal manifestations, uncontrolled
+250.4	C0011881	Chronic_Kidney_Disease	Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled
+250.4	C0375130	Chronic_Kidney_Disease	Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled
+250.41	C0375131	Chronic_Kidney_Disease	Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled
+250.42	C0375132	Chronic_Kidney_Disease	Diabetes with renal manifestations, type II or unspecified type, uncontrolled
+250.43	C0375133	Chronic_Kidney_Disease	Diabetes with renal manifestations, type I [juvenile type], uncontrolled
+271.4	C0017980	Chronic_Kidney_Disease	Renal glycosuria
+274.1	C0391820	Chronic_Kidney_Disease	Gouty nephropathy, unspecified
+274.1	C0391820	Chronic_Kidney_Disease	Gouty nephropathy, unspecified
+283.11	C0019061	Chronic_Kidney_Disease	Hemolytic-uremic syndrome
+403.01	C1719461	Chronic_Kidney_Disease	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease
+403.11	C0155598	Chronic_Kidney_Disease	Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease
+403.91	C0348860	Chronic_Kidney_Disease	Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease
+404.02	C1719466	Chronic_Kidney_Disease	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease
+404.03	C1719467	Chronic_Kidney_Disease	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease
+404.12	C0155610	Chronic_Kidney_Disease	Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease
+404.13	C0155611	Chronic_Kidney_Disease	Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease
+404.92	C0348879	Chronic_Kidney_Disease	Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease
+404.93	C0494576	Chronic_Kidney_Disease	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease
+440.1	C0155734	Chronic_Kidney_Disease	Atherosclerosis of renal artery
+442.1	C0155742	Chronic_Kidney_Disease	Aneurysm of renal artery
+572.4	C0019212	Chronic_Kidney_Disease	Hepatorenal syndrome
+580	C0341692	Chronic_Kidney_Disease	Acute glomerulonephritis with lesion of proliferative glomerulonephritis
+580	C0156221	Chronic_Kidney_Disease	Acute glomerulonephritis with lesion of proliferative glomerulonephritis
+580.4	C0156223	Chronic_Kidney_Disease	Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis
+580.81	C0156225	Chronic_Kidney_Disease	Acute glomerulonephritis in diseases classified elsewhere
+580.89	C0156224	Chronic_Kidney_Disease	Acute glomerulonephritis with other specified pathological lesion in kidney
+580.9	C0156226	Chronic_Kidney_Disease	Acute glomerulonephritis with unspecified pathological lesion in kidney
+581	C0027726	Chronic_Kidney_Disease	Nephrotic syndrome with lesion of proliferative glomerulonephritis
+581	C0156227	Chronic_Kidney_Disease	Nephrotic syndrome with lesion of proliferative glomerulonephritis
+581.1	C0156228	Chronic_Kidney_Disease	Nephrotic syndrome with lesion of membranous glomerulonephritis
+581.2	C0156229	Chronic_Kidney_Disease	Nephrotic syndrome with lesion of membranoproliferative glomerulonephritis
+581.3	C1704321	Chronic_Kidney_Disease	Nephrotic syndrome with lesion of minimal change glomerulonephritis
+581.81	C0156230	Chronic_Kidney_Disease	Nephrotic syndrome in diseases classified elsewhere
+581.89	C0027729	Chronic_Kidney_Disease	Nephrotic syndrome with other specified pathological lesion in kidney
+581.9	C0027730	Chronic_Kidney_Disease	Nephrotic syndrome with unspecified pathological lesion in kidney
+582	C0156231	Chronic_Kidney_Disease	Chronic glomerulonephritis with lesion of proliferative glomerulonephritis
+582	C0152451	Chronic_Kidney_Disease	Chronic glomerulonephritis with lesion of proliferative glomerulonephritis
+582.1	C0008686	Chronic_Kidney_Disease	Chronic glomerulonephritis with lesion of membranous glomerulonephritis
+582.2	C0008685	Chronic_Kidney_Disease	Chronic glomerulonephritis with lesion of membranoproliferative glomerulonephritis
+582.4	C0341694	Chronic_Kidney_Disease	Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis
+582.81	C0156234	Chronic_Kidney_Disease	Chronic glomerulonephritis in diseases classified elsewhere
+582.89	C0156233	Chronic_Kidney_Disease	Chronic glomerulonephritis with other specified pathological lesion in kidney
+582.9	C0156235	Chronic_Kidney_Disease	Chronic glomerulonephritis with unspecified pathological lesion in kidney
+583	C0156236	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of proliferative glomerulonephritis
+583	C0027698	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of proliferative glomerulonephritis
+583.1	C0027701	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranous glomerulonephritis
+583.2	C0027700	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis
+583.4	C0156237	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of rapidly progressive glomerulonephritis
+583.6	C0156238	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal cortical necrosis
+583.7	C0156239	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal medullary necrosis
+583.81	C0027699	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere
+583.89	C0027702	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney
+583.9	C0027703	Chronic_Kidney_Disease	Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney
+584.5	C2712977	Chronic_Kidney_Disease	Acute kidney failure with lesion of tubular necrosis
+584.6	C2712983	Chronic_Kidney_Disease	Acute kidney failure with lesion of renal cortical necrosis
+584.7	C2712745	Chronic_Kidney_Disease	Acute kidney failure with lesion of renal medullary [papillary] necrosis
+584.8	C2712988	Chronic_Kidney_Disease	Acute kidney failure with other specified pathological lesion in kidney
+584.9	C0022660	Chronic_Kidney_Disease	Acute kidney failure, unspecified
+585	C1561643	Chronic_Kidney_Disease	
+585.1	C1561638	Chronic_Kidney_Disease	Chronic kidney disease, Stage I
+585.2	C1561639	Chronic_Kidney_Disease	Chronic kidney disease, Stage II (mild)
+585.3	C1561640	Chronic_Kidney_Disease	Chronic kidney disease, Stage III (moderate)
+585.4	C1561641	Chronic_Kidney_Disease	Chronic kidney disease, Stage IV (severe)
+585.5	C1561642	Chronic_Kidney_Disease	Chronic kidney disease, Stage V
+585.6	C0022661	Chronic_Kidney_Disease	End stage renal disease
+585.9	C1561643	Chronic_Kidney_Disease	Chronic kidney disease, unspecified
+586	C0035078	Chronic_Kidney_Disease	Renal failure, unspecified
+587	C0027719	Chronic_Kidney_Disease	Renal sclerosis, unspecified
+588	C0341677	Chronic_Kidney_Disease	Renal osteodystrophy
+588	C0035086	Chronic_Kidney_Disease	Renal osteodystrophy
+588.1	C0162283	Chronic_Kidney_Disease	Nephrogenic diabetes insipidus
+588.81	C0271847	Chronic_Kidney_Disease	Secondary hyperparathyroidism (of renal origin)
+588.89	C0029791	Chronic_Kidney_Disease	Other specified disorders resulting from impaired renal function
+588.9	C0341677	Chronic_Kidney_Disease	Unspecified disorder resulting from impaired renal function
+591	C0020295	Chronic_Kidney_Disease	Hydronephrosis
+753.12	C0022680	Chronic_Kidney_Disease	Polycystic kidney, unspecified type
+753.13	C0085413	Chronic_Kidney_Disease	Polycystic kidney, autosomal dominant
+753.14	C0085548	Chronic_Kidney_Disease	Polycystic kidney, autosomal recessive
+753.15	C0266313	Chronic_Kidney_Disease	Renal dysplasia
+753.16	C2939174	Chronic_Kidney_Disease	Medullary cystic kidney
+753.17	C0022681	Chronic_Kidney_Disease	Medullary sponge kidney
+753.19	C0431705	Chronic_Kidney_Disease	Other specified cystic kidney disease
+753.2	C0431681	Chronic_Kidney_Disease	Unspecified obstructive defect of renal pelvis and ureter
+753.2	C0431681	Chronic_Kidney_Disease	Unspecified obstructive defect of renal pelvis and ureter
+753.21	C0375530	Chronic_Kidney_Disease	Congenital obstruction of ureteropelvic junction
+753.22	C0375531	Chronic_Kidney_Disease	Congenital obstruction of ureterovesical junction
+753.23	C0474873	Chronic_Kidney_Disease	Congenital ureterocele
+753.29	C0478056	Chronic_Kidney_Disease	Other obstructive defects of renal pelvis and ureter
+794.4	C0236151	Chronic_Kidney_Disease	Nonspecific abnormal results of function study of kidney
+398.91	C0155582	Heart_failure	Rheumatic heart failure (congestive)
+402.01	C1135329	Heart_failure	Malignant hypertensive heart disease with heart failure
+402.11	C1135331	Heart_failure	Benign hypertensive heart disease with heart failure
+402.91	C1135333	Heart_failure	Unspecified hypertensive heart disease with heart failure
+404.01	C1719465	Heart_failure	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.11	C0155609	Heart_failure	Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.91	C0494575	Heart_failure	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified
+404.03	C1719467	Heart_failure	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease
+404.13	C0155611	Heart_failure	Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease
+404.93	C0494576	Heart_failure	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease
+428	C0018802	Heart_failure	Congestive heart failure, unspecified
+428	C0018801	Heart_failure	Congestive heart failure, unspecified
+428.1	C0023212	Heart_failure	Left heart failure
+428.2	C1135191	Heart_failure	Systolic heart failure, unspecified
+428.2	C1135191	Heart_failure	Systolic heart failure, unspecified
+428.21	C2215291	Heart_failure	Acute systolic heart failure
+428.22	C1135194	Heart_failure	Chronic systolic heart failure
+428.23	C2215175	Heart_failure	Acute on chronic systolic heart failure
+428.3	C1135196	Heart_failure	Diastolic heart failure, unspecified
+428.3	C1135196	Heart_failure	Diastolic heart failure, unspecified
+428.31	C2215111	Heart_failure	Acute diastolic heart failure
+428.32	C2074673	Heart_failure	Chronic diastolic heart failure
+428.33	C2215174	Heart_failure	Acute on chronic diastolic heart failure
+428.4	C2882273	Heart_failure	Combined systolic and diastolic heart failure, unspecified
+428.4	C2882273	Heart_failure	Combined systolic and diastolic heart failure, unspecified
+428.41	C2882274	Heart_failure	Acute combined systolic and diastolic heart failure
+428.42	C2882275	Heart_failure	Chronic combined systolic and diastolic heart failure
+428.43	C2882276	Heart_failure	Acute on chronic combined systolic and diastolic heart failure
+428.9	C0018801	Heart_failure	Heart failure, unspecified
+714	C0003873	Arthritis	Rheumatoid arthritis
+714	C0157913	Arthritis	Rheumatoid arthritis
+714.1	C0015773	Arthritis	Felty's syndrome
+714.2	C0157914	Arthritis	Other rheumatoid arthritis with visceral or systemic involvement
+714.3	C0837691	Arthritis	Polyarticular juvenile rheumatoid arthritis, chronic or unspecified
+714.3	C0409667	Arthritis	Polyarticular juvenile rheumatoid arthritis, chronic or unspecified
+714.31	C0157916	Arthritis	Polyarticular juvenile rheumatoid arthritis, acute
+714.32	C0157917	Arthritis	Pauciarticular juvenile rheumatoid arthritis
+714.33	C0157918	Arthritis	Monoarticular juvenile rheumatoid arthritis
+715	C0157923	Arthritis	Osteoarthrosis, generalized, site unspecified
+715	C0263742	Arthritis	Osteoarthrosis, generalized, site unspecified
+715	C1384584	Arthritis	Osteoarthrosis, generalized, site unspecified
+715.04	C0157924	Arthritis	Osteoarthrosis, generalized, hand
+715.09	C1384584	Arthritis	Osteoarthrosis, generalized, multiple sites
+715.1	C0157926	Arthritis	Osteoarthrosis, localized, primary, site unspecified
+715.1	C0157926	Arthritis	Osteoarthrosis, localized, primary, site unspecified
+715.11	C0263752	Arthritis	Osteoarthrosis, localized, primary, shoulder region
+715.12	C0263753	Arthritis	Osteoarthrosis, localized, primary, upper arm
+715.13	C0263754	Arthritis	Osteoarthrosis, localized, primary, forearm
+715.14	C0263755	Arthritis	Osteoarthrosis, localized, primary, hand
+715.15	C0473748	Arthritis	Osteoarthrosis, localized, primary, pelvic region and thigh
+715.16	C0263758	Arthritis	Osteoarthrosis, localized, primary, lower leg
+715.17	C0263759	Arthritis	Osteoarthrosis, localized, primary, ankle and foot
+715.18	C0701814	Arthritis	Osteoarthrosis, localized, primary, other specified sites
+715.2	C0473754	Arthritis	Osteoarthrosis, localized, secondary, site unspecified
+715.2	C0157937	Arthritis	Osteoarthrosis, localized, secondary, site unspecified
+715.21	C0157938	Arthritis	Osteoarthrosis, localized, secondary, shoulder region
+715.22	C0157939	Arthritis	Osteoarthrosis, localized, secondary, upper arm
+715.23	C0157940	Arthritis	Osteoarthrosis, localized, secondary, forearm
+715.24	C0157941	Arthritis	Osteoarthrosis, localized, secondary, hand
+715.25	C0157942	Arthritis	Osteoarthrosis, localized, secondary, pelvic region and thigh
+715.26	C0157943	Arthritis	Osteoarthrosis, localized, secondary, lower leg
+715.27	C0157944	Arthritis	Osteoarthrosis, localized, secondary, ankle and foot
+715.28	C0157945	Arthritis	Osteoarthrosis, localized, secondary, other specified sites
+715.3	C0157947	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified
+715.3	C0157946	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified
+715.31	C0157948	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region
+715.32	C0157949	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, upper arm
+715.33	C0157950	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, forearm
+715.34	C0157951	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, hand
+715.35	C0157952	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh
+715.36	C0157953	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, lower leg
+715.37	C0157954	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot
+715.38	C0157955	Arthritis	Osteoarthrosis, localized, not specified whether primary or secondary, other specified sites
+715.8	C0157957	Arthritis	Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, site unspecified
+715.8	C0263774	Arthritis	Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, site unspecified
+715.89	C0157958	Arthritis	Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites
+715.9	C0029408	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, site unspecified
+715.9	C0157959	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, site unspecified
+715.91	C0157960	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, shoulder region
+715.92	C0157961	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, upper arm
+715.93	C0157962	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, forearm
+715.94	C0157963	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, hand
+715.95	C0157964	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh
+715.96	C0157965	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, lower leg
+715.97	C0157966	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, ankle and foot
+715.98	C0157967	Arthritis	Osteoarthrosis, unspecified whether generalized or localized, other specified sites
+720	C0038013	Arthritis	Ankylosing spondylitis
+720	C0003089	Arthritis	Ankylosing spondylitis
+721	C0158241	Arthritis	Cervical spondylosis without myelopathy
+721	C0158240	Arthritis	Cervical spondylosis without myelopathy
+721.1	C0158242	Arthritis	Cervical spondylosis with myelopathy
+721.2	C0158243	Arthritis	Thoracic spondylosis without myelopathy
+721.3	C0158244	Arthritis	Lumbosacral spondylosis without myelopathy
+721.9	C0038019	Arthritis	Spondylosis of unspecified site, without mention of myelopathy
+721.9	C0263851	Arthritis	Spondylosis of unspecified site, without mention of myelopathy
+721.91	C0263853	Arthritis	Spondylosis of unspecified site, with myelopathy
+410	C0155627	Ischemic_Heart_Disease	Acute myocardial infarction of anterolateral wall, episode of care unspecified
+410	C0155628	Ischemic_Heart_Disease	Acute myocardial infarction of anterolateral wall, episode of care unspecified
+410	C0155626	Ischemic_Heart_Disease	Acute myocardial infarction of anterolateral wall, episode of care unspecified
+410.01	C0155629	Ischemic_Heart_Disease	Acute myocardial infarction of anterolateral wall, initial episode of care
+410.02	C0155630	Ischemic_Heart_Disease	Acute myocardial infarction of anterolateral wall, subsequent episode of care
+410.1	C0155632	Ischemic_Heart_Disease	Acute myocardial infarction of other anterior wall, episode of care unspecified
+410.1	C0155631	Ischemic_Heart_Disease	Acute myocardial infarction of other anterior wall, episode of care unspecified
+410.11	C0155633	Ischemic_Heart_Disease	Acute myocardial infarction of other anterior wall, initial episode of care
+410.12	C0155634	Ischemic_Heart_Disease	Acute myocardial infarction of other anterior wall, subsequent episode of care
+410.2	C0340308	Ischemic_Heart_Disease	Acute myocardial infarction of inferolateral wall, episode of care unspecified
+410.2	C0155636	Ischemic_Heart_Disease	Acute myocardial infarction of inferolateral wall, episode of care unspecified
+410.21	C0155637	Ischemic_Heart_Disease	Acute myocardial infarction of inferolateral wall, initial episode of care
+410.22	C0155638	Ischemic_Heart_Disease	Acute myocardial infarction of inferolateral wall, subsequent episode of care
+410.3	C0155640	Ischemic_Heart_Disease	Acute myocardial infarction of inferoposterior wall, episode of care unspecified
+410.3	C0340304	Ischemic_Heart_Disease	Acute myocardial infarction of inferoposterior wall, episode of care unspecified
+410.31	C0155641	Ischemic_Heart_Disease	Acute myocardial infarction of inferoposterior wall, initial episode of care
+410.32	C0155642	Ischemic_Heart_Disease	Acute myocardial infarction of inferoposterior wall, subsequent episode of care
+410.4	C0155643	Ischemic_Heart_Disease	Acute myocardial infarction of other inferior wall, episode of care unspecified
+410.4	C0155644	Ischemic_Heart_Disease	Acute myocardial infarction of other inferior wall, episode of care unspecified
+410.41	C0155645	Ischemic_Heart_Disease	Acute myocardial infarction of other inferior wall, initial episode of care
+410.42	C0155646	Ischemic_Heart_Disease	Acute myocardial infarction of other inferior wall, subsequent episode of care
+410.5	C0155647	Ischemic_Heart_Disease	Acute myocardial infarction of other lateral wall, episode of care unspecified
+410.5	C0155648	Ischemic_Heart_Disease	Acute myocardial infarction of other lateral wall, episode of care unspecified
+410.51	C0155649	Ischemic_Heart_Disease	Acute myocardial infarction of other lateral wall, initial episode of care
+410.52	C0155650	Ischemic_Heart_Disease	Acute myocardial infarction of other lateral wall, subsequent episode of care
+410.6	C0155652	Ischemic_Heart_Disease	True posterior wall infarction, episode of care unspecified
+410.6	C0264706	Ischemic_Heart_Disease	True posterior wall infarction, episode of care unspecified
+410.61	C0155653	Ischemic_Heart_Disease	True posterior wall infarction, initial episode of care
+410.62	C0155654	Ischemic_Heart_Disease	True posterior wall infarction, subsequent episode of care
+410.7	C0155655	Ischemic_Heart_Disease	Subendocardial infarction, episode of care unspecified
+410.7	C0494580	Ischemic_Heart_Disease	Subendocardial infarction, episode of care unspecified
+410.71	C0155657	Ischemic_Heart_Disease	Subendocardial infarction, initial episode of care
+410.72	C0155658	Ischemic_Heart_Disease	Subendocardial infarction, subsequent episode of care
+410.8	C0155659	Ischemic_Heart_Disease	Acute myocardial infarction of other specified sites, episode of care unspecified
+410.8	C0155660	Ischemic_Heart_Disease	Acute myocardial infarction of other specified sites, episode of care unspecified
+410.81	C0155661	Ischemic_Heart_Disease	Acute myocardial infarction of other specified sites, initial episode of care
+410.82	C0155662	Ischemic_Heart_Disease	Acute myocardial infarction of other specified sites, subsequent episode of care
+410.9	C0155626	Ischemic_Heart_Disease	Acute myocardial infarction of unspecified site, episode of care unspecified
+410.9	C0155626	Ischemic_Heart_Disease	Acute myocardial infarction of unspecified site, episode of care unspecified
+410.91	C0155664	Ischemic_Heart_Disease	Acute myocardial infarction of unspecified site, initial episode of care
+410.92	C0155665	Ischemic_Heart_Disease	Acute myocardial infarction of unspecified site, subsequent episode of care
+411	C0340283	Ischemic_Heart_Disease	OTHER ACUTE AND SUBACUTE FORMS OF ISCHEMIC HEART DISEASE
+411	C0152107	Ischemic_Heart_Disease	OTHER ACUTE AND SUBACUTE FORMS OF ISCHEMIC HEART DISEASE
+411.1	C0002965	Ischemic_Heart_Disease	Intermediate coronary syndrome
+411.81	C0949167	Ischemic_Heart_Disease	Acute coronary occlusion without myocardial infarction
+411.89	C0340283	Ischemic_Heart_Disease	Other acute and subacute forms of ischemic heart disease, other
+412	C0155668	Ischemic_Heart_Disease	Old myocardial infarction
+413	C0002962	Ischemic_Heart_Disease	Angina decubitus
+413	C0152172	Ischemic_Heart_Disease	Angina decubitus
+413.1	C0002963	Ischemic_Heart_Disease	Prinzmetal angina
+413.9	C0348588	Ischemic_Heart_Disease	Other and unspecified angina pectoris
+414	C0155669	Ischemic_Heart_Disease	Coronary atherosclerosis of unspecified type of vessel, native or graft
+414	C0010054	Ischemic_Heart_Disease	Coronary atherosclerosis of unspecified type of vessel, native or graft
+414	C0837133	Ischemic_Heart_Disease	Coronary atherosclerosis of unspecified type of vessel, native or graft
+414.01	C0837134	Ischemic_Heart_Disease	Coronary atherosclerosis of native coronary artery
+414.02	C0837135	Ischemic_Heart_Disease	Coronary atherosclerosis of autologous vein bypass graft
+414.03	C0837136	Ischemic_Heart_Disease	Coronary atherosclerosis of nonautologous biological bypass graft
+414.04	C0375264	Ischemic_Heart_Disease	Coronary atherosclerosis of artery bypass graft
+414.05	C0375265	Ischemic_Heart_Disease	Coronary atherosclerosis of unspecified bypass graft
+414.06	C1135190	Ischemic_Heart_Disease	Coronary atherosclerosis of native coronary artery of transplanted heart
+414.07	C1456095	Ischemic_Heart_Disease	Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+414.12	C0340648	Ischemic_Heart_Disease	Dissection of coronary artery
+414.2	C1955779	Ischemic_Heart_Disease	Chronic total occlusion of coronary artery
+414.3	C2349509	Ischemic_Heart_Disease	Coronary atherosclerosis due to lipid rich plaque
+414.4	C3161090	Ischemic_Heart_Disease	Coronary atherosclerosis due to calcified coronary lesion
+414.8	C0155670	Ischemic_Heart_Disease	Other specified forms of chronic ischemic heart disease
+414.9	C0264694	Ischemic_Heart_Disease	Chronic ischemic heart disease, unspecified

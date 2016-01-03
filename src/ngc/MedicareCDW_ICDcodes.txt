@@ -1,0 +1,448 @@
+Hypertension	362.11	Hypertensive retinopathy	Hypertensive retinopathy
+Hypertension	401	Malignant hypertension	Malignant essential hypertension
+Hypertension	401.1	Benign hypertension	Benign essential hypertension
+Hypertension	401.9	Hypertension NOS	Unspecified essential hypertension
+Hypertension	402	Mal hyp ht dis w/o hf	Malignant hypertensive heart disease without heart failure
+Hypertension	402.01	Mal hypert hrt dis w hf	Malignant hypertensive heart disease with heart failure
+Hypertension	402.1	Benign hyp ht dis w/o hf	Benign hypertensive heart disease without heart failure
+Hypertension	402.11	Benign hyp ht dis w hf	Benign hypertensive heart disease with heart failure
+Hypertension	402.9	Hyp hrt dis NOS w/o hf	Unspecified hypertensive heart disease without heart failure
+Hypertension	402.91	Hyp ht dis NOS w ht fail	Unspecified hypertensive heart disease with heart failure
+Hypertension	403	Mal hy kid w cr kid I-IV	"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	403.01	Mal hyp kid w cr kid V	"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+Hypertension	403.1	Ben hy kid w cr kid I-IV	"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	403.11	Ben hyp kid w cr kid V	"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease"
+Hypertension	403.9	Hy kid NOS w cr kid I-IV	"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	403.91	Hyp kid NOS w cr kid V	"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+Hypertension	404	Mal hy ht/kd I-IV w/o hf	"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	404.01	Mal hyp ht/kd I-IV w hf	"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	404.02	Mal hy ht/kd st V w/o hf	"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+Hypertension	404.03	Mal hyp ht/kd stg V w hf	"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease"
+Hypertension	404.1	Ben hy ht/kd I-IV w/o hf	"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	404.11	Ben hyp ht/kd I-IV w hf	"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	404.12	Ben hy ht/kd st V w/o hf	"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+Hypertension	404.13	Ben hyp ht/kd stg V w hf	"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease"
+Hypertension	404.9	Hy ht/kd NOS I-IV w/o hf	"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	404.91	Hyp ht/kd NOS I-IV w hf	"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Hypertension	404.92	Hy ht/kd NOS st V w/o hf	"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+Hypertension	404.93	Hyp ht/kd NOS st V w hf	"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+Hypertension	405.01	Mal renovasc hypertens	Malignant renovascular hypertension
+Hypertension	405.09	Mal second hyperten NEC	Other malignant secondary hypertension
+Hypertension	405.11	Benign renovasc hyperten	Benign renovascular hypertension
+Hypertension	405.19	Benign second hypert NEC	Other benign secondary hypertension
+Hypertension	405.91	Renovasc hypertension	Unspecified renovascular hypertension
+Hypertension	405.99	Second hypertension NEC	Other unspecified secondary hypertension
+Hypertension	437.2	Hypertens encephalopathy	Hypertensive encephalopathy
+Diabetes_mellitus	249	Sec DM wo cmp nt st uncn	"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.01	Sec DM wo comp uncontrld	"Secondary diabetes mellitus without mention of complication, uncontrolled"
+Diabetes_mellitus	249.1	Sec DM keto nt st uncntr	"Secondary diabetes mellitus with ketoacidosis, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.11	Sec DM ketoacd uncntrld	"Secondary diabetes mellitus with ketoacidosis, uncontrolled"
+Diabetes_mellitus	249.2	Sec DM hpros nt st uncnr	"Secondary diabetes mellitus with hyperosmolarity, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.21	Sec DM hprosmlr uncntrld	"Secondary diabetes mellitus with hyperosmolarity, uncontrolled"
+Diabetes_mellitus	249.3	Sec DM ot cma nt st uncn	"Secondary diabetes mellitus with other coma, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.31	Sec DM oth coma uncntrld	"Secondary diabetes mellitus with other coma, uncontrolled"
+Diabetes_mellitus	249.4	Sec DM renl nt st uncntr	"Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.41	Sec DM renal uncontrld	"Secondary diabetes mellitus with renal manifestations, uncontrolled"
+Diabetes_mellitus	249.5	Sec DM ophth nt st uncn	"Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.51	Sec DM ophth uncontrld	"Secondary diabetes mellitus with ophthalmic manifestations, uncontrolled"
+Diabetes_mellitus	249.6	Sec DM neuro nt st uncn	"Secondary diabetes mellitus with neurological manifestations, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.61	Sec DM neuro uncontrld	"Secondary diabetes mellitus with neurological manifestations, uncontrolled"
+Diabetes_mellitus	249.7	Sec DM circ nt st uncntr	"Secondary diabetes mellitus with peripheral circulatory disorders, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.71	Sec DM circ uncontrld	"Secondary diabetes mellitus with peripheral circulatory disorders, uncontrolled"
+Diabetes_mellitus	249.8	Sec DM oth nt st uncontr	"Secondary diabetes mellitus with other specified manifestations, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.81	Sec DM other uncontrld	"Secondary diabetes mellitus with other specified manifestations, uncontrolled"
+Diabetes_mellitus	249.9	Sec DM unsp nt st uncon	"Secondary diabetes mellitus with unspecified complication, not stated as uncontrolled, or unspecified"
+Diabetes_mellitus	249.91	Sec DM unsp uncontrold	"Secondary diabetes mellitus with unspecified complication, uncontrolled"
+Diabetes_mellitus	250	DMII wo cmp nt st uncntr	"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.01	DMI wo cmp nt st uncntrl	"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.02	DMII wo cmp uncntrld	"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.03	DMI wo cmp uncntrld	"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.1	DMII keto nt st uncntrld	"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.11	DMI keto nt st uncntrld	"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.12	DMII ketoacd uncontrold	"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.13	DMI ketoacd uncontrold	"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.2	DMII hprsm nt st uncntrl	"Diabetes with hyperosmolarity, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.21	DMI hprsm nt st uncntrld	"Diabetes with hyperosmolarity, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.22	DMII hprosmlr uncontrold	"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.23	DMI hprosmlr uncontrold	"Diabetes with hyperosmolarity, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.3	DMII o cm nt st uncntrld	"Diabetes with other coma, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.31	DMI o cm nt st uncntrld	"Diabetes with other coma, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.32	DMII oth coma uncontrold	"Diabetes with other coma, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.33	DMI oth coma uncontrold	"Diabetes with other coma, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.4	DMII renl nt st uncntrld	"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.41	DMI renl nt st uncntrld	"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.42	DMII renal uncntrld	"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.43	DMI renal uncntrld	"Diabetes with renal manifestations, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.5	DMII ophth nt st uncntrl	"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.51	DMI ophth nt st uncntrld	"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.52	DMII ophth uncntrld	"Diabetes with ophthalmic manifestations, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.53	DMI ophth uncntrld	"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.6	DMII neuro nt st uncntrl	"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.61	DMI neuro nt st uncntrld	"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.62	DMII neuro uncntrld	"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.63	DMI neuro uncntrld	"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.7	DMII circ nt st uncntrld	"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.71	DMI circ nt st uncntrld	"Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.72	DMII circ uncntrld	"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.73	DMI circ uncntrld	"Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.8	DMII oth nt st uncntrld	"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.81	DMI oth nt st uncntrld	"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.82	DMII oth uncntrld	"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.83	DMI oth uncntrld	"Diabetes with other specified manifestations, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	250.9	DMII unspf nt st uncntrl	"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+Diabetes_mellitus	250.91	DMI unspf nt st uncntrld	"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+Diabetes_mellitus	250.92	DMII unspf uncntrld	"Diabetes with unspecified complication, type II or unspecified type, uncontrolled"
+Diabetes_mellitus	250.93	DMI unspf uncntrld	"Diabetes with unspecified complication, type I [juvenile type], uncontrolled"
+Diabetes_mellitus	357.2	Neuropathy in diabetes	Polyneuropathy in diabetes
+Diabetes_mellitus	362.01	Diabetic retinopathy NOS	Background diabetic retinopathy
+Diabetes_mellitus	362.02	Prolif diab retinopathy	Proliferative diabetic retinopathy
+Diabetes_mellitus	362.03	Nonprolf db retnoph NOS	Nonproliferative diabetic retinopathy NOS
+Diabetes_mellitus	362.04	Mild nonprolf db retnoph	Mild nonproliferative diabetic retinopathy
+Diabetes_mellitus	362.05	Mod nonprolf db retinoph	Moderate nonproliferative diabetic retinopathy
+Diabetes_mellitus	362.06	Sev nonprolf db retinoph	Severe nonproliferative diabetic retinopathy
+Diabetes_mellitus	366.41	Diabetic cataract	Diabetic cataract
+Hyperlipidemia	272	Pure hypercholesterolem	Pure hypercholesterolemia
+Hyperlipidemia	272.1	Pure hyperglyceridemia	Pure hyperglyceridemia
+Hyperlipidemia	272.2	Mixed hyperlipidemia	Mixed hyperlipidemia
+Hyperlipidemia	272.3	Hyperchylomicronemia	Hyperchylomicronemia
+Hyperlipidemia	272.4	Hyperlipidemia NEC/NOS	Other and unspecified hyperlipidemia
+Obesity	278	Obesity NOS	"Obesity, unspecified"
+Obesity	278.01	Morbid obesity	Morbid obesity
+Obesity	278.02	Overweight	Overweight
+Stroke_or_TIA	430	Subarachnoid hemorrhage	Subarachnoid hemorrhage
+Stroke_or_TIA	431	Intracerebral hemorrhage	Intracerebral hemorrhage
+Stroke_or_TIA	433.01	Ocl bslr art w infrct	Occlusion and stenosis of basilar artery with cerebral infarction
+Stroke_or_TIA	433.11	Ocl crtd art w infrct	Occlusion and stenosis of carotid artery with cerebral infarction
+Stroke_or_TIA	433.21	Ocl vrtb art w infrct	Occlusion and stenosis of vertebral artery with cerebral infarction
+Stroke_or_TIA	433.31	Ocl mlt bi art w infrct	Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+Stroke_or_TIA	433.81	Ocl spcf art w infrct	Occlusion and stenosis of other specified precerebral artery with cerebral infarction
+Stroke_or_TIA	433.91	Ocl art NOS w infrct	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction
+Stroke_or_TIA	434	Crbl thrmbs wo infrct	Cerebral thrombosis without mention of cerebral infarction
+Stroke_or_TIA	434.01	Crbl thrmbs w infrct	Cerebral thrombosis with cerebral infarction
+Stroke_or_TIA	434.1	Crbl emblsm wo infrct	Cerebral embolism without mention of cerebral infarction
+Stroke_or_TIA	434.11	Crbl emblsm w infrct	Cerebral embolism with cerebral infarction
+Stroke_or_TIA	434.9	Crbl art oc NOS wo infrc	"Cerebral artery occlusion, unspecified without mention of cerebral infarction"
+Stroke_or_TIA	434.91	Crbl art ocl NOS w infrc	"Cerebral artery occlusion, unspecified with cerebral infarction"
+Stroke_or_TIA	435	Basilar artery syndrome	Basilar artery syndrome
+Stroke_or_TIA	435.1	Vertebral artery syndrom	Vertebral artery syndrome
+Stroke_or_TIA	435.3	Vertbrobaslr artery synd	Vertebrobasilar artery syndrome
+Stroke_or_TIA	435.8	Trans cereb ischemia NEC	Other specified transient cerebral ischemias
+Stroke_or_TIA	435.9	Trans cereb ischemia NOS	Unspecified transient cerebral ischemia
+Stroke_or_TIA	436	Cva	"Acute, but ill-defined, cerebrovascular disease"
+Stroke_or_TIA	997.02	Iatrogen CV infarc/hmrhg	Iatrogenic cerebrovascular infarction or hemorrhage
+Asthma	493	Extrinsic asthma NOS	"Extrinsic asthma, unspecified"
+Asthma	493.01	Ext asthma w status asth	Extrinsic asthma with status asthmaticus
+Asthma	493.02	Ext asthma w(acute) exac	Extrinsic asthma with (acute) exacerbation
+Asthma	493.1	Intrinsic asthma NOS	"Intrinsic asthma, unspecified"
+Asthma	493.11	Int asthma w status asth	Intrinsic asthma with status asthmaticus
+Asthma	493.12	Int asthma w (ac) exac	Intrinsic asthma with (acute) exacerbation
+Asthma	493.2	Chronic obst asthma NOS	"Chronic obstructive asthma, unspecified"
+Asthma	493.21	Ch ob asthma w stat asth	Chronic obstructive asthma with status asthmaticus
+Asthma	493.22	Ch obst asth w (ac) exac	Chronic obstructive asthma with (acute) exacerbation
+Asthma	493.81	Exercse ind bronchospasm	Exercise induced bronchospasm
+Asthma	493.82	Cough variant asthma	Cough variant asthma
+Asthma	493.9	Asthma NOS	"Asthma, unspecified type, unspecified"
+Asthma	493.91	Asthma w status asthmat	"Asthma, unspecified type, with status asthmaticus"
+Asthma	493.92	Asthma NOS w (ac) exac	"Asthma, unspecified type, with (acute) exacerbation"
+Osteoporosis	733	Osteoporosis NOS	"Osteoporosis, unspecified"
+Osteoporosis	733.01	Senile osteoporosis	Senile osteoporosis
+Osteoporosis	733.02	Idiopathic osteoporosis	Idiopathic osteoporosis
+Osteoporosis	733.03	Disuse osteoporosis	Disuse osteoporosis
+Osteoporosis	733.09	Osteoporosis NEC	Other osteoporosis
+Atrial fibrillation	427.31	Atrial fibrillation	Atrial fibrillation
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	331	Alzheimer's disease	Alzheimer's disease
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	331.11	Pick's disease	Pick's disease
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	331.19	Frontotemp dementia NEC	Other frontotemporal dementia
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	331.2	Senile degenerat brain	Senile degeneration of brain
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	331.7	Cereb degen in oth dis	Cerebral degeneration in diseases classified elsewhere
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290	Senile dementia uncomp	"Senile dementia, uncomplicated"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.1	Presenile dementia	"Presenile dementia, uncomplicated"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.11	Presenile delirium	Presenile dementia with delirium
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.12	Presenile delusion	Presenile dementia with delusional features
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.13	Presenile depression	Presenile dementia with depressive features
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.2	Senile delusion	Senile dementia with delusional features
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.21	Senile depressive	Senile dementia with depressive features
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.3	Senile delirium	Senile dementia with delirium
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.4	"Vascular dementia,uncomp"	"Vascular dementia, uncomplicated"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.41	Vasc dementia w delirium	"Vascular dementia, with delirium"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.42	Vasc dementia w delusion	"Vascular dementia, with delusions"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	290.43	Vasc dementia w depressn	"Vascular dementia, with depressed mood"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	294	Amnestic disord oth dis	Amnestic disorder in conditions classified elsewhere
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	294.1	Dementia w/o behav dist	Dementia in conditions classified elsewhere without behavioral disturbance
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	294.11	Dementia w behavior dist	Dementia in conditions classified elsewhere with behavioral disturbance
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	294.2	Demen NOS w/o behv dstrb	"Dementia, unspecified, without behavioral disturbance"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	294.21	Demen NOS w behav distrb	"Dementia, unspecified, with behavioral disturbance"
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	294.8	Mental disor NEC oth dis	Other persistent mental disorders due to conditions classified elsewhere
+Alzheimer's_Disease/Alzheimer's_Disease_and_Related_Disorders_ or_Senile_Dementia	797	Senility w/o psychosis	Senility without mention of psychosis
+COPD_and_Bronchiectasis	490	Bronchitis NOS	"Bronchitis, not specified as acute or chronic"
+COPD_and_Bronchiectasis	491	Simple chr bronchitis	Simple chronic bronchitis
+COPD_and_Bronchiectasis	491.1	Mucopurul chr bronchitis	Mucopurulent chronic bronchitis
+COPD_and_Bronchiectasis	491.8	Chronic bronchitis NEC	Other chronic bronchitis
+COPD_and_Bronchiectasis	491.9	Chronic bronchitis NOS	Unspecified chronic bronchitis
+COPD_and_Bronchiectasis	492	Emphysematous bleb	Emphysematous bleb
+COPD_and_Bronchiectasis	492.8	Emphysema NEC	Other emphysema
+COPD_and_Bronchiectasis	491.2	Obst chr bronc w/o exac	Obstructive chronic bronchitis without exacerbation
+COPD_and_Bronchiectasis	491.21	Obs chr bronc w(ac) exac	Obstructive chronic bronchitis with (acute) exacerbation
+COPD_and_Bronchiectasis	491.22	Obs chr bronc w ac bronc	Obstructive chronic bronchitis with acute bronchitis
+COPD_and_Bronchiectasis	494	Bronchiectas w/o ac exac	Bronchiectasis without acute exacerbation
+COPD_and_Bronchiectasis	494.1	Bronchiectasis w ac exac	Bronchiectasis with acute exacerbation
+COPD_and_Bronchiectasis	496	Chr airway obstruct NEC	"Chronic airway obstruction, not elsewhere classified"
+Depression	296.2	Depress psychosis-unspec	"Major depressive affective disorder, single episode, unspecified"
+Depression	296.21	Depress psychosis-mild	"Major depressive affective disorder, single episode, mild"
+Depression	296.22	Depressive psychosis-mod	"Major depressive affective disorder, single episode, moderate"
+Depression	296.23	Depress psychosis-severe	"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior"
+Depression	296.24	Depr psychos-sev w psych	"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior"
+Depression	296.25	Depr psychos-part remiss	"Major depressive affective disorder, single episode, in partial or unspecified remission"
+Depression	296.26	Depr psychos-full remiss	"Major depressive affective disorder, single episode, in full remission"
+Depression	296.3	Recurr depr psychos-unsp	"Major depressive affective disorder, recurrent episode, unspecified"
+Depression	296.31	Recurr depr psychos-mild	"Major depressive affective disorder, recurrent episode, mild"
+Depression	296.32	Recurr depr psychos-mod	"Major depressive affective disorder, recurrent episode, moderate"
+Depression	296.33	Recur depr psych-severe	"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+Depression	296.34	Rec depr psych-psychotic	"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+Depression	296.35	Recur depr psyc-part rem	"Major depressive affective disorder, recurrent episode, in partial or unspecified remission"
+Depression	296.36	Recur depr psyc-full rem	"Major depressive affective disorder, recurrent episode, in full remission"
+Depression	296.51	Bipol I cur depress-mild	"Bipolar I disorder, most recent episode (or current) depressed, mild"
+Depression	296.52	Bipol I cur depress-mod	"Bipolar I disorder, most recent episode (or current) depressed, moderate"
+Depression	296.53	Bipol I curr dep w/o psy	"Bipolar I disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior"
+Depression	296.54	Bipol I currnt dep w psy	"Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior"
+Depression	296.55	Bipol I cur dep rem NOS	"Bipolar I disorder, most recent episode (or current) depressed, in partial or unspecified remission"
+Depression	296.56	Bipol I currnt dep remis	"Bipolar I disorder, most recent episode (or current) depressed, in full remission"
+Depression	296.6	Bipol I currnt mixed NOS	"Bipolar I disorder, most recent episode (or current) mixed, unspecified"
+Depression	296.61	Bipol I currnt mix-mild	"Bipolar I disorder, most recent episode (or current) mixed, mild"
+Depression	296.62	Bipol I currnt mixed-mod	"Bipolar I disorder, most recent episode (or current) mixed, moderate"
+Depression	296.63	Bipol I cur mix w/o psy	"Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior"
+Depression	296.64	Bipol I cur mixed w psy	"Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior"
+Depression	296.65	Bipol I cur mix-part rem	"Bipolar I disorder, most recent episode (or current) mixed, in partial or unspecified remission"
+Depression	296.66	Bipol I cur mixed remiss	"Bipolar I disorder, most recent episode (or current) mixed, in full remission"
+Depression	296.89	Bipolar disorder NEC	Other bipolar disorders
+Depression	298	React depress psychosis	Depressive type psychosis
+Depression	300.4	Dysthymic disorder	Dysthymic disorder
+Depression	309.1	Prolong depressive react	Prolonged depressive reaction
+Depression	311	Depressive disorder NEC	"Depressive disorder, not elsewhere classified"
+Chronic_Kidney_Disease	16	TB of kidney-unspec	"Tuberculosis of kidney, unspecified"
+Chronic_Kidney_Disease	16.01	TB of kidney-no exam	"Tuberculosis of kidney, bacteriological or histological examination not done"
+Chronic_Kidney_Disease	16.02	TB of kidney-exam unkn	"Tuberculosis of kidney, bacteriological or histological examination unknown (at present)"
+Chronic_Kidney_Disease	16.03	TB of kidney-micro dx	"Tuberculosis of kidney, tubercle bacilli found (in sputum) by microscopy"
+Chronic_Kidney_Disease	16.04	TB of kidney-cult dx	"Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+Chronic_Kidney_Disease	16.05	TB of kidney-histo dx	"Tuberculosis of kidney, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+Chronic_Kidney_Disease	16.06	TB of kidney-oth test	"Tuberculosis of kidney, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+Chronic_Kidney_Disease	95.4	Syphilis of kidney	Syphilis of kidney
+Chronic_Kidney_Disease	189	Malig neopl kidney	"Malignant neoplasm of kidney, except pelvis"
+Chronic_Kidney_Disease	189.9	Mal neo urinary NOS	"Malignant neoplasm of urinary organ, site unspecified"
+Chronic_Kidney_Disease	223	Benign neoplasm kidney	"Benign neoplasm of kidney, except pelvis"
+Chronic_Kidney_Disease	236.91	Unc behav neo kidney	Neoplasm of uncertain behavior of kidney and ureter
+Chronic_Kidney_Disease	249.4	Sec DM renl nt st uncntr	"Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified"
+Chronic_Kidney_Disease	249.41	Sec DM renal uncontrld	"Secondary diabetes mellitus with renal manifestations, uncontrolled"
+Chronic_Kidney_Disease	250.4	DMII renl nt st uncntrld	"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+Chronic_Kidney_Disease	250.41	DMI renl nt st uncntrld	"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+Chronic_Kidney_Disease	250.42	DMII renal uncntrld	"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+Chronic_Kidney_Disease	250.43	DMI renal uncntrld	"Diabetes with renal manifestations, type I [juvenile type], uncontrolled"
+Chronic_Kidney_Disease	271.4	Renal glycosuria	Renal glycosuria
+Chronic_Kidney_Disease	274.1	Gouty nephropathy NOS	"Gouty nephropathy, unspecified"
+Chronic_Kidney_Disease	283.11	Hemolytic uremic synd	Hemolytic-uremic syndrome
+Chronic_Kidney_Disease	403.01	Mal hyp kid w cr kid V	"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	403.11	Ben hyp kid w cr kid V	"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	403.91	Hyp kid NOS w cr kid V	"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	404.02	Mal hy ht/kd st V w/o hf	"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	404.03	Mal hyp ht/kd stg V w hf	"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	404.12	Ben hy ht/kd st V w/o hf	"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	404.13	Ben hyp ht/kd stg V w hf	"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	404.92	Hy ht/kd NOS st V w/o hf	"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	404.93	Hyp ht/kd NOS st V w hf	"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+Chronic_Kidney_Disease	440.1	Renal artery atheroscler	Atherosclerosis of renal artery
+Chronic_Kidney_Disease	442.1	Renal artery aneurysm	Aneurysm of renal artery
+Chronic_Kidney_Disease	572.4	Hepatorenal syndrome	Hepatorenal syndrome
+Chronic_Kidney_Disease	580	Ac proliferat nephritis	Acute glomerulonephritis with lesion of proliferative glomerulonephritis
+Chronic_Kidney_Disease	580.4	Ac rapidly progr nephrit	Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis
+Chronic_Kidney_Disease	580.81	Ac nephritis in oth dis	Acute glomerulonephritis in diseases classified elsewhere
+Chronic_Kidney_Disease	580.89	Acute nephritis NEC	Acute glomerulonephritis with other specified pathological lesion in kidney
+Chronic_Kidney_Disease	580.9	Acute nephritis NOS	Acute glomerulonephritis with unspecified pathological lesion in kidney
+Chronic_Kidney_Disease	581	"Nephrotic syn, prolifer"	Nephrotic syndrome with lesion of proliferative glomerulonephritis
+Chronic_Kidney_Disease	581.1	Epimembranous nephritis	Nephrotic syndrome with lesion of membranous glomerulonephritis
+Chronic_Kidney_Disease	581.2	Membranoprolif nephrosis	Nephrotic syndrome with lesion of membranoproliferative glomerulonephritis
+Chronic_Kidney_Disease	581.3	Minimal change nephrosis	Nephrotic syndrome with lesion of minimal change glomerulonephritis
+Chronic_Kidney_Disease	581.81	Nephrotic syn in oth dis	Nephrotic syndrome in diseases classified elsewhere
+Chronic_Kidney_Disease	581.89	Nephrotic syndrome NEC	Nephrotic syndrome with other specified pathological lesion in kidney
+Chronic_Kidney_Disease	581.9	Nephrotic syndrome NOS	Nephrotic syndrome with unspecified pathological lesion in kidney
+Chronic_Kidney_Disease	582	Chr proliferat nephritis	Chronic glomerulonephritis with lesion of proliferative glomerulonephritis
+Chronic_Kidney_Disease	582.1	Chr membranous nephritis	Chronic glomerulonephritis with lesion of membranous glomerulonephritis
+Chronic_Kidney_Disease	582.2	Chr membranoprolif nephr	Chronic glomerulonephritis with lesion of membranoproliferative glomerulonephritis
+Chronic_Kidney_Disease	582.4	Chr rapid progr nephrit	Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis
+Chronic_Kidney_Disease	582.81	Chr nephritis in oth dis	Chronic glomerulonephritis in diseases classified elsewhere
+Chronic_Kidney_Disease	582.89	Chronic nephritis NEC	Chronic glomerulonephritis with other specified pathological lesion in kidney
+Chronic_Kidney_Disease	582.9	Chronic nephritis NOS	Chronic glomerulonephritis with unspecified pathological lesion in kidney
+Chronic_Kidney_Disease	583	Proliferat nephritis NOS	"Nephritis and nephropathy, not specified as acute or chronic, with lesion of proliferative glomerulonephritis"
+Chronic_Kidney_Disease	583.1	Membranous nephritis NOS	"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranous glomerulonephritis"
+Chronic_Kidney_Disease	583.2	Membranoprolif nephr NOS	"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+Chronic_Kidney_Disease	583.4	Rapidly prog nephrit NOS	"Nephritis and nephropathy, not specified as acute or chronic, with lesion of rapidly progressive glomerulonephritis"
+Chronic_Kidney_Disease	583.6	Renal cort necrosis NOS	"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal cortical necrosis"
+Chronic_Kidney_Disease	583.7	Nephr NOS/medull necros	"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal medullary necrosis"
+Chronic_Kidney_Disease	583.81	Nephritis NOS in oth dis	"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+Chronic_Kidney_Disease	583.89	Nephritis NEC	"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney"
+Chronic_Kidney_Disease	583.9	Nephritis NOS	"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney"
+Chronic_Kidney_Disease	584.5	"Ac kidny fail, tubr necr"	Acute kidney failure with lesion of tubular necrosis
+Chronic_Kidney_Disease	584.6	"Ac kidny fail, cort necr"	Acute kidney failure with lesion of renal cortical necrosis
+Chronic_Kidney_Disease	584.7	"Ac kidny fail, medu necr"	Acute kidney failure with lesion of renal medullary [papillary] necrosis
+Chronic_Kidney_Disease	584.8	Acute kidney failure NEC	Acute kidney failure with other specified pathological lesion in kidney
+Chronic_Kidney_Disease	584.9	Acute kidney failure NOS	"Acute kidney failure, unspecified"
+Chronic_Kidney_Disease	585		
+Chronic_Kidney_Disease	585.1	Chro kidney dis stage I	"Chronic kidney disease, Stage I"
+Chronic_Kidney_Disease	585.2	Chro kidney dis stage II	"Chronic kidney disease, Stage II (mild)"
+Chronic_Kidney_Disease	585.3	Chr kidney dis stage III	"Chronic kidney disease, Stage III (moderate)"
+Chronic_Kidney_Disease	585.4	Chr kidney dis stage IV	"Chronic kidney disease, Stage IV (severe)"
+Chronic_Kidney_Disease	585.5	Chron kidney dis stage V	"Chronic kidney disease, Stage V"
+Chronic_Kidney_Disease	585.6	End stage renal disease	End stage renal disease
+Chronic_Kidney_Disease	585.9	Chronic kidney dis NOS	"Chronic kidney disease, unspecified"
+Chronic_Kidney_Disease	586	Renal failure NOS	"Renal failure, unspecified"
+Chronic_Kidney_Disease	587	Renal sclerosis NOS	"Renal sclerosis, unspecified"
+Chronic_Kidney_Disease	588	Renal osteodystrophy	Renal osteodystrophy
+Chronic_Kidney_Disease	588.1	Nephrogen diabetes insip	Nephrogenic diabetes insipidus
+Chronic_Kidney_Disease	588.81	Sec hyperparathyrd-renal	Secondary hyperparathyroidism (of renal origin)
+Chronic_Kidney_Disease	588.89	Impair ren funct dis NEC	Other specified disorders resulting from impaired renal function
+Chronic_Kidney_Disease	588.9	Impaired renal funct NOS	Unspecified disorder resulting from impaired renal function
+Chronic_Kidney_Disease	591	Hydronephrosis	Hydronephrosis
+Chronic_Kidney_Disease	753.12	Polycystic kidney NOS	"Polycystic kidney, unspecified type"
+Chronic_Kidney_Disease	753.13	Polycyst kid-autosom dom	"Polycystic kidney, autosomal dominant"
+Chronic_Kidney_Disease	753.14	Polycyst kid-autosom rec	"Polycystic kidney, autosomal recessive"
+Chronic_Kidney_Disease	753.15	Renal dysplasia	Renal dysplasia
+Chronic_Kidney_Disease	753.16	Medullary cystic kidney	Medullary cystic kidney
+Chronic_Kidney_Disease	753.17	Medullary sponge kidney	Medullary sponge kidney
+Chronic_Kidney_Disease	753.19	Cystic kidney diseas NEC	Other specified cystic kidney disease
+Chronic_Kidney_Disease	753.2	Obs dfct ren plv&urt NOS	Unspecified obstructive defect of renal pelvis and ureter
+Chronic_Kidney_Disease	753.21	Congen obst urtroplv jnc	Congenital obstruction of ureteropelvic junction
+Chronic_Kidney_Disease	753.22	Cong obst ureteroves jnc	Congenital obstruction of ureterovesical junction
+Chronic_Kidney_Disease	753.23	Congenital ureterocele	Congenital ureterocele
+Chronic_Kidney_Disease	753.29	Obst def ren plv&urt NEC	Other obstructive defects of renal pelvis and ureter
+Chronic_Kidney_Disease	794.4	Abn kidney funct study	Nonspecific abnormal results of function study of kidney
+Heart_failure	398.91	Rheumatic heart failure	Rheumatic heart failure (congestive)
+Heart_failure	402.01	Mal hypert hrt dis w hf	Malignant hypertensive heart disease with heart failure
+Heart_failure	402.11	Benign hyp ht dis w hf	Benign hypertensive heart disease with heart failure
+Heart_failure	402.91	Hyp ht dis NOS w ht fail	Unspecified hypertensive heart disease with heart failure
+Heart_failure	404.01	Mal hyp ht/kd I-IV w hf	"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Heart_failure	404.11	Ben hyp ht/kd I-IV w hf	"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Heart_failure	404.91	Hyp ht/kd NOS I-IV w hf	"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+Heart_failure	404.03	Mal hyp ht/kd stg V w hf	"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease"
+Heart_failure	404.13	Ben hyp ht/kd stg V w hf	"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease"
+Heart_failure	404.93	Hyp ht/kd NOS st V w hf	"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+Heart_failure	428	CHF NOS	"Congestive heart failure, unspecified"
+Heart_failure	428.1	Left heart failure	Left heart failure
+Heart_failure	428.2	Systolic hrt failure NOS	"Systolic heart failure, unspecified"
+Heart_failure	428.21	Ac systolic hrt failure	Acute systolic heart failure
+Heart_failure	428.22	Chr systolic hrt failure	Chronic systolic heart failure
+Heart_failure	428.23	Ac on chr syst hrt fail	Acute on chronic systolic heart failure
+Heart_failure	428.3	Diastolc hrt failure NOS	"Diastolic heart failure, unspecified"
+Heart_failure	428.31	Ac diastolic hrt failure	Acute diastolic heart failure
+Heart_failure	428.32	Chr diastolic hrt fail	Chronic diastolic heart failure
+Heart_failure	428.33	Ac on chr diast hrt fail	Acute on chronic diastolic heart failure
+Heart_failure	428.4	Syst/diast hrt fail NOS	"Combined systolic and diastolic heart failure, unspecified"
+Heart_failure	428.41	Ac syst/diastol hrt fail	Acute combined systolic and diastolic heart failure
+Heart_failure	428.42	Chr syst/diastl hrt fail	Chronic combined systolic and diastolic heart failure
+Heart_failure	428.43	Ac/chr syst/dia hrt fail	Acute on chronic combined systolic and diastolic heart failure
+Heart_failure	428.9	Heart failure NOS	"Heart failure, unspecified"
+Arthritis	714	Rheumatoid arthritis	Rheumatoid arthritis
+Arthritis	714.1	Felty's syndrome	Felty's syndrome
+Arthritis	714.2	Syst rheum arthritis NEC	Other rheumatoid arthritis with visceral or systemic involvement
+Arthritis	714.3	Juv rheum arthritis NOS	"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+Arthritis	714.31	Polyart juv rheum arthr	"Polyarticular juvenile rheumatoid arthritis, acute"
+Arthritis	714.32	Pauciart juv rheum arthr	Pauciarticular juvenile rheumatoid arthritis
+Arthritis	714.33	Monoart juv rheum arthr	Monoarticular juvenile rheumatoid arthritis
+Arthritis	715	General osteoarthrosis	"Osteoarthrosis, generalized, site unspecified"
+Arthritis	715.04	Gen osteoarthros-hand	"Osteoarthrosis, generalized, hand"
+Arthritis	715.09	General osteoarthrosis	"Osteoarthrosis, generalized, multiple sites"
+Arthritis	715.1	Loc prim osteoart-unspec	"Osteoarthrosis, localized, primary, site unspecified"
+Arthritis	715.11	Loc prim osteoart-shlder	"Osteoarthrosis, localized, primary, shoulder region"
+Arthritis	715.12	Loc prim osteoart-up/arm	"Osteoarthrosis, localized, primary, upper arm"
+Arthritis	715.13	Loc prim osteoart-forarm	"Osteoarthrosis, localized, primary, forearm"
+Arthritis	715.14	Loc prim osteoarth-hand	"Osteoarthrosis, localized, primary, hand"
+Arthritis	715.15	Loc prim osteoart-pelvis	"Osteoarthrosis, localized, primary, pelvic region and thigh"
+Arthritis	715.16	Loc prim osteoart-l/leg	"Osteoarthrosis, localized, primary, lower leg"
+Arthritis	715.17	Loc prim osteoarth-ankle	"Osteoarthrosis, localized, primary, ankle and foot"
+Arthritis	715.18	Loc prim osteoarthr NEC	"Osteoarthrosis, localized, primary, other specified sites"
+Arthritis	715.2	Loc 2nd osteoarth-unspec	"Osteoarthrosis, localized, secondary, site unspecified"
+Arthritis	715.21	Loc 2nd osteoarth-shlder	"Osteoarthrosis, localized, secondary, shoulder region"
+Arthritis	715.22	Loc 2nd osteoarth-up/arm	"Osteoarthrosis, localized, secondary, upper arm"
+Arthritis	715.23	Loc 2nd osteoart-forearm	"Osteoarthrosis, localized, secondary, forearm"
+Arthritis	715.24	Loc 2nd osteoarthro-hand	"Osteoarthrosis, localized, secondary, hand"
+Arthritis	715.25	Loc 2nd osteoarth-pelvis	"Osteoarthrosis, localized, secondary, pelvic region and thigh"
+Arthritis	715.26	Loc 2nd osteoarthr-l/leg	"Osteoarthrosis, localized, secondary, lower leg"
+Arthritis	715.27	Loc 2nd osteoarthr-ankle	"Osteoarthrosis, localized, secondary, ankle and foot"
+Arthritis	715.28	Loc 2nd osteoarthros NEC	"Osteoarthrosis, localized, secondary, other specified sites"
+Arthritis	715.3	Loc osteoarth NOS-unspec	"Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified"
+Arthritis	715.31	Loc osteoarth NOS-shlder	"Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region"
+Arthritis	715.32	Loc osteoarth NOS-up/arm	"Osteoarthrosis, localized, not specified whether primary or secondary, upper arm"
+Arthritis	715.33	Loc osteoart NOS-forearm	"Osteoarthrosis, localized, not specified whether primary or secondary, forearm"
+Arthritis	715.34	Loc osteoarth NOS-hand	"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+Arthritis	715.35	Loc osteoarth NOS-pelvis	"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+Arthritis	715.36	Loc osteoarth NOS-l/leg	"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+Arthritis	715.37	Loc osteoarth NOS-ankle	"Osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot"
+Arthritis	715.38	Loc osteoar NOS-site NEC	"Osteoarthrosis, localized, not specified whether primary or secondary, other specified sites"
+Arthritis	715.8	Osteoarthrosis-mult site	"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, site unspecified"
+Arthritis	715.89	Osteoarthrosis-mult site	"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites"
+Arthritis	715.9	Osteoarthros NOS-unspec	"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+Arthritis	715.91	Osteoarthros NOS-shlder	"Osteoarthrosis, unspecified whether generalized or localized, shoulder region"
+Arthritis	715.92	Osteoarthros NOS-up/arm	"Osteoarthrosis, unspecified whether generalized or localized, upper arm"
+Arthritis	715.93	Osteoarthros NOS-forearm	"Osteoarthrosis, unspecified whether generalized or localized, forearm"
+Arthritis	715.94	Osteoarthros NOS-hand	"Osteoarthrosis, unspecified whether generalized or localized, hand"
+Arthritis	715.95	Osteoarthros NOS-pelvis	"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+Arthritis	715.96	Osteoarthros NOS-l/leg	"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+Arthritis	715.97	Osteoarthros NOS-ankle	"Osteoarthrosis, unspecified whether generalized or localized, ankle and foot"
+Arthritis	715.98	Osteoarthro NOS-oth site	"Osteoarthrosis, unspecified whether generalized or localized, other specified sites"
+Arthritis	720	Ankylosing spondylitis	Ankylosing spondylitis
+Arthritis	721	Cervical spondylosis	Cervical spondylosis without myelopathy
+Arthritis	721.1	Cerv spondyl w myelopath	Cervical spondylosis with myelopathy
+Arthritis	721.2	Thoracic spondylosis	Thoracic spondylosis without myelopathy
+Arthritis	721.3	Lumbosacral spondylosis	Lumbosacral spondylosis without myelopathy
+Arthritis	721.9	Spondylos NOS w/o myelop	"Spondylosis of unspecified site, without mention of myelopathy"
+Arthritis	721.91	Spondylosis NOS w myelop	"Spondylosis of unspecified site, with myelopathy"
+Ischemic_Heart_Disease	410	"AMI anterolateral,unspec"	"Acute myocardial infarction of anterolateral wall, episode of care unspecified"
+Ischemic_Heart_Disease	410.01	"AMI anterolateral, init"	"Acute myocardial infarction of anterolateral wall, initial episode of care"
+Ischemic_Heart_Disease	410.02	"AMI anterolateral,subseq"	"Acute myocardial infarction of anterolateral wall, subsequent episode of care"
+Ischemic_Heart_Disease	410.1	"AMI anterior wall,unspec"	"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+Ischemic_Heart_Disease	410.11	"AMI anterior wall, init"	"Acute myocardial infarction of other anterior wall, initial episode of care"
+Ischemic_Heart_Disease	410.12	"AMI anterior wall,subseq"	"Acute myocardial infarction of other anterior wall, subsequent episode of care"
+Ischemic_Heart_Disease	410.2	"AMI inferolateral,unspec"	"Acute myocardial infarction of inferolateral wall, episode of care unspecified"
+Ischemic_Heart_Disease	410.21	"AMI inferolateral, init"	"Acute myocardial infarction of inferolateral wall, initial episode of care"
+Ischemic_Heart_Disease	410.22	"AMI inferolateral,subseq"	"Acute myocardial infarction of inferolateral wall, subsequent episode of care"
+Ischemic_Heart_Disease	410.3	"AMI inferopost, unspec"	"Acute myocardial infarction of inferoposterior wall, episode of care unspecified"
+Ischemic_Heart_Disease	410.31	"AMI inferopost, initial"	"Acute myocardial infarction of inferoposterior wall, initial episode of care"
+Ischemic_Heart_Disease	410.32	"AMI inferopost, subseq"	"Acute myocardial infarction of inferoposterior wall, subsequent episode of care"
+Ischemic_Heart_Disease	410.4	"AMI inferior wall,unspec"	"Acute myocardial infarction of other inferior wall, episode of care unspecified"
+Ischemic_Heart_Disease	410.41	"AMI inferior wall, init"	"Acute myocardial infarction of other inferior wall, initial episode of care"
+Ischemic_Heart_Disease	410.42	"AMI inferior wall,subseq"	"Acute myocardial infarction of other inferior wall, subsequent episode of care"
+Ischemic_Heart_Disease	410.5	"AMI lateral NEC, unspec"	"Acute myocardial infarction of other lateral wall, episode of care unspecified"
+Ischemic_Heart_Disease	410.51	"AMI lateral NEC, initial"	"Acute myocardial infarction of other lateral wall, initial episode of care"
+Ischemic_Heart_Disease	410.52	"AMI lateral NEC, subseq"	"Acute myocardial infarction of other lateral wall, subsequent episode of care"
+Ischemic_Heart_Disease	410.6	"True post infarct,unspec"	"True posterior wall infarction, episode of care unspecified"
+Ischemic_Heart_Disease	410.61	"True post infarct, init"	"True posterior wall infarction, initial episode of care"
+Ischemic_Heart_Disease	410.62	"True post infarct,subseq"	"True posterior wall infarction, subsequent episode of care"
+Ischemic_Heart_Disease	410.7	"Subendo infarct, unspec"	"Subendocardial infarction, episode of care unspecified"
+Ischemic_Heart_Disease	410.71	"Subendo infarct, initial"	"Subendocardial infarction, initial episode of care"
+Ischemic_Heart_Disease	410.72	"Subendo infarct, subseq"	"Subendocardial infarction, subsequent episode of care"
+Ischemic_Heart_Disease	410.8	"AMI NEC, unspecified"	"Acute myocardial infarction of other specified sites, episode of care unspecified"
+Ischemic_Heart_Disease	410.81	"AMI NEC, initial"	"Acute myocardial infarction of other specified sites, initial episode of care"
+Ischemic_Heart_Disease	410.82	"AMI NEC, subsequent"	"Acute myocardial infarction of other specified sites, subsequent episode of care"
+Ischemic_Heart_Disease	410.9	"AMI NOS, unspecified"	"Acute myocardial infarction of unspecified site, episode of care unspecified"
+Ischemic_Heart_Disease	410.91	"AMI NOS, initial"	"Acute myocardial infarction of unspecified site, initial episode of care"
+Ischemic_Heart_Disease	410.92	"AMI NOS, subsequent"	"Acute myocardial infarction of unspecified site, subsequent episode of care"
+Ischemic_Heart_Disease	411	OTHER ACUTE AND SUBACUTE FORMS OF ISCHEMIC HEART DISEASE	OTHER ACUTE AND SUBACUTE FORMS OF ISCHEMIC HEART DISEASE
+Ischemic_Heart_Disease	411.1	Intermed coronary synd	Intermediate coronary syndrome
+Ischemic_Heart_Disease	411.81	Acute cor occlsn w/o MI	Acute coronary occlusion without myocardial infarction
+Ischemic_Heart_Disease	411.89	Ac ischemic hrt dis NEC	"Other acute and subacute forms of ischemic heart disease, other"
+Ischemic_Heart_Disease	412	Old myocardial infarct	Old myocardial infarction
+Ischemic_Heart_Disease	413	Angina decubitus	Angina decubitus
+Ischemic_Heart_Disease	413.1	Prinzmetal angina	Prinzmetal angina
+Ischemic_Heart_Disease	413.9	Angina pectoris NEC/NOS	Other and unspecified angina pectoris
+Ischemic_Heart_Disease	414	Cor ath unsp vsl ntv/gft	"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+Ischemic_Heart_Disease	414.01	Crnry athrscl natve vssl	Coronary atherosclerosis of native coronary artery
+Ischemic_Heart_Disease	414.02	Crn ath atlg vn bps grft	Coronary atherosclerosis of autologous vein bypass graft
+Ischemic_Heart_Disease	414.03	Crn ath nonatlg blg grft	Coronary atherosclerosis of nonautologous biological bypass graft
+Ischemic_Heart_Disease	414.04	Cor ath artry bypas grft	Coronary atherosclerosis of artery bypass graft
+Ischemic_Heart_Disease	414.05	Cor ath bypass graft NOS	Coronary atherosclerosis of unspecified bypass graft
+Ischemic_Heart_Disease	414.06	Cor ath natv art tp hrt	Coronary atherosclerosis of native coronary artery of transplanted heart
+Ischemic_Heart_Disease	414.07	Cor ath bps graft tp hrt	Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+Ischemic_Heart_Disease	414.12	Dissection cor artery	Dissection of coronary artery
+Ischemic_Heart_Disease	414.2	Chr tot occlus cor artry	Chronic total occlusion of coronary artery
+Ischemic_Heart_Disease	414.3	Cor ath d/t lpd rch plaq	Coronary atherosclerosis due to lipid rich plaque
+Ischemic_Heart_Disease	414.4	Cor ath d/t calc cor lsn	Coronary atherosclerosis due to calcified coronary lesion
+Ischemic_Heart_Disease	414.8	Chr ischemic hrt dis NEC	Other specified forms of chronic ischemic heart disease
+Ischemic_Heart_Disease	414.9	Chr ischemic hrt dis NOS	"Chronic ischemic heart disease, unspecified"
