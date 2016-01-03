@@ -15,7 +15,7 @@ import time
 start = time.time()
 
 ## Set path
-path = "C:\\Users\\tileung\\Dropbox\\Py Stuffs - Drugs in CPGs\\SeptCode\\"
+path = ""
 
 ## Initiate file to save results
 fName = path + "IncludedGLs_byCUI.txt"
