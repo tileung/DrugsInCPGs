@@ -1,0 +1,178 @@
+10013	hf	Angiotensin-converting enzyme (ACE) inhibitors	drug_class
+10013	hf	Beta blockers	drug_class
+10013	hf	Aldosterone antagonist	drug_class
+10013	hf	Isosorbide dinitrate	drug
+10013	hf	hydralazine	drug
+10013	hf	Diuretics	drug_class
+10013	hf	Angiotensin receptor blockers	drug_class
+10013	hf	ACE inhibitors	something
+10013	hf	Digoxin	drug
+10013	hf	diuretics	drug_class
+10013	hf	ACE inhibitors	drug_class
+10013	hf	beta blockers	drug_class
+10013	hf	aldosterone antagonist	drug_class
+10013	hf	ACE inhibitor	drug_class
+10013	hf	ARBs	drug_class
+10025	hf	Angiotensin-converting enzyme (ACE) inhibitors	drug_class
+10025	hf	Beta-blockade	drug_class
+10025	hf	carvedilol	drug
+10025	hf	metoprolol	drug
+10025	hf	bisoprolol	drug
+10025	hf	Diuretics	drug_class
+10025	hf	Spironolactone	drug
+10025	hf	ACE inhibitors	drug_class
+10025	hf	angiotensin receptor blockers	drug_class
+10025	hf	ARBs	drug_class
+10025	hf	hydralazine	drug
+10025	hf	isosorbide dinitrate	drug
+10025	hf	ACE inhibitors	drug_class
+10025	hf	ARBs	drug_class
+10025	hf	alcohol	contraindicated_drug
+10025	hf	illicit drug	contraindicated_drug
+10025	hf	non-steroidal anti-inflammatory drugs	contraindicated_drug
+10025	hf	NSAIDs	contraindicated_drug
+10049	hf	diuretics	drug_class
+10049	hf	vasodilators	drug_class
+10049	hf	cardiotoxic agents	contraindicated_drug
+10049	hf	angiotensin-converting-enzyme (ACE) inhibitors	drug_class
+10049	hf	ACE inhibitors	drug_class
+10049	hf	angiotensin receptor blockers	drug_class
+10049	hf	beta blockers	drug_class
+10049	hf	ACE inhibitors	drug_class
+10049	hf	Beta blockers	drug_class
+10049	hf	Nondihydropyridine calcium channel blockers	drug_class
+10049	hf	Valsartan	drug
+10049	hf	Beta-Blocker	drug_class
+10049	hf	Diuretics	drug_class
+10049	hf	Diuretics	drug_class
+10049	hf	ACE Inhibitors	drug_class
+10049	hf	ACE inhibitors	drug_class
+10049	hf	ACE inhibitor	drug_class
+10049	hf	ARBs	drug_class
+10049	hf	ACE inhibitors	drug_class
+10049	hf	ARBs	drug_class
+10049	hf	ARB	drug_class
+10049	hf	ACE inhibitor	drug_class
+10049	hf	beta blocker	drug_class
+10049	hf	aldosterone antagonist	something
+10049	hf	ACE inhibitor	drug_class
+10049	hf	ARB	drug_class
+10049	hf	aldosterone antagonist	drug_class
+10049	hf	Beta Blockers	drug_class
+10049	hf	beta blockers	drug_class
+10049	hf	bisoprolol	drug
+10049	hf	carvedilol	drug
+10049	hf	metoprolol succinate	drug
+10049	hf	Beta-Blocker	drug_class
+10049	hf	metoprolol	drug
+10049	hf	Aldosterone Receptor Antagonists	drug_class
+10049	hf	Aldosterone receptor antagonists	drug_class
+10049	hf	mineralocorticoid receptor antagonists	drug_class
+10049	hf	aldosterone receptor antagonists	drug_class
+10049	hf	Aldosterone receptor antagonists	drug_class
+10049	hf	diuretic	drug_class
+10049	hf	aldosterone receptor antagonists	drug_class
+10049	hf	Hydralazine	drug
+10049	hf	Isosorbide Dinitrates	drug
+10049	hf	hydralazine	drug
+10049	hf	isosorbide dinitrate	drug
+10049	hf	ACE inhibitors	drug_class
+10049	hf	beta blockers	drug_class
+10049	hf	hydralazine	drug
+10049	hf	isosorbide dinitrate	drug
+10049	hf	ACE inhibitor	drug_class
+10049	hf	ARB	drug_class
+10049	hf	Digoxin	drug
+10049	hf	Digoxin	drug
+10049	hf	anticoagulant	drug_class
+10049	hf	antithrombotic	drug_class
+10049	hf	anticoagulant	drug_class
+10049	hf	warfarin	drug
+10049	hf	dabigatran	drug
+10049	hf	apixaban	drug
+10049	hf	rivaroxaban	drug
+10049	hf	warfarin	drug
+10049	hf	anticoagulation	drug_class
+10049	hf	antithrombotic	drug_class
+10049	hf	Statins	drug_class
+10049	hf	Statins	drug_class
+10049	hf	rosuvastatin	drug
+10049	hf	Omega-3 Fatty Acids	drug_class
+10049	hf	Omega-3 polyunsaturated fatty acid	drug_class
+10049	hf	PUFA	drug_class
+10049	hf	Hormonal therapies	contraindicated_drug
+10049	hf	antiarrhythmic drugs	contraindicated_drug
+10049	hf	calcium channel&ndash;blocking drugs	contraindicated_drug
+10049	hf	amlodipine	drug
+10049	hf	nonsteroidal anti-inflammatory drugs	contraindicated_drug
+10049	hf	NSAIDs	contraindicated_drug
+10049	hf	thiazolidinediones	drug_class
+10049	hf	verapamil	contraindicated_drug
+10049	hf	positive inotropic drugs	contraindicated_drug
+10049	hf	diltiazem	contraindicated_drug
+10049	hf	Calcium Channel Blockers	contraindicated_drug
+10049	hf	Calcium channel&ndash;blocking drugs	contraindicated_drug
+10049	hf	Diuretics	drug_class
+10049	hf	ARBs	drug_class
+10049	hf	beta-blocking agents	drug_class
+10049	hf	ACE inhibitors	drug_class
+10049	hf	ARBs	drug_class
+10049	hf	inotropic support	drug_class
+10049	hf	inotropic support	drug_class
+10049	hf	inotropic support	drug_class
+10049	hf	positive inotropic agents	drug_class
+10049	hf	Xamoterol	drug
+10049	hf	inotropic agents	drug_class
+10049	hf	beta-blocker therapy	drug_class
+10049	hf	diuretics	drug_class
+10049	hf	vasodilators	drug_class
+10049	hf	inotropic agents	drug_class
+10049	hf	Beta-blocker therapy	drug_class
+10049	hf	beta blockers	drug_class
+10049	hf	inotropes	drug_class
+10049	hf	Diuretics	drug_class
+10049	hf	loop diuretics	drug_class
+10049	hf	loop diuretic therapy	drug_class
+10049	hf	diuretic	drug_class
+10049	hf	diuretics	drug_class
+10049	hf	loop diuretics	drug_class
+10049	hf	thiazide	drug
+10049	hf	diuretic	drug_class
+10049	hf	dopamine	drug
+10049	hf	loop diuretic therapy	drug_class
+10049	hf	nitroglycerin	drug
+10049	hf	nitroprusside	drug
+10049	hf	nesiritide	drug
+10049	hf	diuretic therapy	drug_class
+10049	hf	nonselective vasopressin antagonist	drug_class
+10049	hf	vasopressin antagonists	drug_class
+10049	hf	anticoagulant	drug_class
+10049	hf	Arginine Vasopressin Antagonists	drug_class
+10049	hf	V2 receptor selective	drug_class
+10049	hf	aspirin	drug
+10049	hf	ARBs	drug_class
+10105	hf	erythropoiesis-stimulating agents	drug_class
+10105	hf	ESAs	drug_class
+10105	hf	ESAs	drug_class
+10105	hf	ESA	drug_class
+10105	hf	ESAs	drug_class
+5529	hf	alcohol	contraindicated_drug
+5529	hf	alcohol	contraindicated_drug
+5529	hf	alcohol	something
+5529	hf	Angiotensin converting enzyme inhibitors	drug_class
+5529	hf	beta-blocker therapy	drug_class
+5529	hf	angiotensin converting enzyme inhibitors	drug_class
+5529	hf	angiotensin receptor blocker	drug_class
+5529	hf	angiotensin converting enzyme inhibitor	drug_class
+5529	hf	beta-blocker	drug_class
+5529	hf	candesartan	drug
+5529	hf	spironolactone	drug
+5529	hf	eplerenone	drug
+5529	hf	Diuretic therapy	drug_class
+5529	hf	Digoxin	drug
+5529	hf	hydralazine	drug
+5529	hf	isosorbide dinitrate	contraindicated_drug
+5529	hf	angiotensin converting enzyme inhibitor	drug_class
+5529	hf	angiotensin II receptor blocker	drug
+5529	hf	hydralazine	drug
+5529	hf	isosorbide dinitrate	drug_class

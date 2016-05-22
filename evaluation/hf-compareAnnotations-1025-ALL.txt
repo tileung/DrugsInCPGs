@@ -1,0 +1,194 @@
+eplerenone,4,4
+influenza,0,9
+Aldosterone antagonist,5,0
+inotropic support,15,0
+Calcium Channel Blockers,5,0
+anticoagulant,15,5
+Xamoterol,5,0
+vasodilators,10,0
+nitroglycerin,5,5
+nitrogen,0,10
+edu,0,5
+antiarrhythmic,0,5
+ace inhibitor,0,10
+inotropic agents,10,0
+thyroid,0,10
+Nondihydropyridine calcium channel blockers,5,0
+nitroprusside,5,5
+beta-blocker,4,0
+blood glucose,0,5
+tsh,0,5
+aldosterone receptor antagonists,10,0
+rose,0,5
+bnp,0,14
+calcium channel blockers,0,5
+angiotensin ii,0,4
+lipids,0,5
+urea nitrogen,0,10
+rosuvastatin,5,5
+PUFA,5,0
+vasopressin antagonists,5,0
+hormone,0,10
+peptide,0,14
+fatty acids,0,5
+positive inotropic agents,5,0
+apixaban,5,5
+vital,0,5
+electrolytes,0,10
+ARBs,40,0
+isosorbide dinitrate,23,19
+Calcium channel&ndash;blocking drugs,5,0
+diuretics,20,15
+beta-blocker therapy,9,0
+troponin,0,5
+oxygen,0,5
+antithrombotic,10,0
+nsaids,0,10
+level,0,4
+Valsartan,5,0
+arginine vasopressin,0,5
+loop diuretics,10,5
+dabigatran,5,5
+metoprolol succinate,5,5
+ACE Inhibitors,5,0
+angiotensin converting enzyme inhibitor,8,4
+dopamine,5,5
+beta blocker,5,5
+valsartan,0,5
+arb,0,5
+Digoxin,19,0
+isosorbide,0,19
+angiotensin-converting-enzyme (ACE) inhibitors,5,0
+duration,0,4
+Angiotensin receptor blockers,5,0
+non-steroidal anti-inflammatory drugs,5,0
+omega-3 fatty acids,0,5
+alcohol,17,9
+aldosterone antagonist,15,10
+enzyme inhibitor,0,4
+diltiazem,5,5
+V2 receptor selective,5,0
+nonselective vasopressin antagonist,5,0
+Isosorbide dinitrate,5,0
+magnesium,0,10
+ecg,0,5
+dcm,0,5
+lipid,0,10
+cardiotoxic agents,5,0
+ESAs,15,0
+Statins,10,0
+men,0,10
+candesartan,4,4
+water,0,5
+digitalis,0,5
+Omega-3 polyunsaturated fatty acid,5,0
+Angiotensin-converting enzyme (ACE) inhibitors,10,0
+blood urea,0,10
+Beta blockers,10,0
+loop diuretic,0,5
+cor,0,5
+thiazide,5,5
+metra,0,5
+sodium,0,10
+erythropoiesis-stimulating agents,5,0
+drug,0,19
+loop diuretic therapy,10,0
+antiarrhythmic drugs,5,0
+Angiotensin converting enzyme inhibitors,4,0
+acp,0,5
+ensure,0,9
+smoke,0,4
+anticoagulant agent,0,5
+succinate,0,5
+pufa,0,5
+aha,0,5
+NSAIDs,10,0
+Isosorbide Dinitrates,5,0
+vasopressin,0,5
+thiazolidinediones,5,5
+ace inhibitors,0,15
+beta-blocking agents,5,0
+mineralocorticoid receptor antagonists,5,5
+inotropes,5,0
+ACE inhibitors,50,0
+nesiritide,5,5
+basis,0,5
+vasopressin antagonist,0,5
+polyunsaturated fatty acid,0,5
+xamoterol,0,5
+angiotensin receptor blockers,10,15
+calcium channel&ndash;blocking drugs,5,0
+glucose,0,10
+angiotensin receptor blocker,4,0
+bisoprolol,10,10
+Aldosterone receptor antagonists,10,0
+potassium,0,14
+arginine,0,5
+introduction,0,4
+amlodipine,5,5
+bun,0,5
+liver,0,10
+carvedilol,10,10
+promote,0,4
+positive inotropic drugs,5,0
+anticoagulation,5,0
+Beta Blockers,5,0
+enalapril,0,5
+Arginine Vasopressin Antagonists,5,0
+spironolactone,4,9
+calcium,0,10
+dietary sodium,0,5
+fatty acid,0,5
+rivaroxaban,5,5
+metoprolol,10,10
+inhibitor,0,14
+diuretic,15,9
+Omega-3 Fatty Acids,5,0
+adjuvant,0,5
+acids,0,5
+Hydralazine,5,0
+pro,0,9
+Beta-blockade,5,0
+agent,0,5
+urea,0,10
+nonsteroidal anti-inflammatory drugs,5,0
+home,0,4
+creatinine,0,10
+Diuretic therapy,4,0
+information,0,15
+Beta-Blocker,10,0
+hydralazine,28,19
+Aldosterone Receptor Antagonists,5,0
+warfarin,10,5
+ARB,15,0
+same,0,5
+aspirin,5,5
+digoxin,0,14
+branch,0,5
+better,0,5
+angiotensin ii receptor blocker,0,4
+aldosterone,0,10
+Beta-blocker therapy,5,0
+radionuclide,0,5
+verapamil,5,5
+Hormonal therapies,5,0
+Spironolactone,5,0
+angiotensin converting enzyme inhibitors,4,0
+ESA,5,0
+enzyme inhibitors,0,4
+ACE inhibitor,25,0
+tobacco,0,5
+acid,0,5
+lead,0,10
+amp,0,24
+diuretic therapy,5,0
+omega-3 polyunsaturated fatty acid,0,5
+antagonist,0,10
+element,0,4
+illicit drug,5,0
+Diuretics,30,0
+angiotensin II receptor blocker,4,0
+natriuretic peptide,0,14
+mineralocorticoid,0,5
+blood urea nitrogen,0,10
+beta blockers,25,0
